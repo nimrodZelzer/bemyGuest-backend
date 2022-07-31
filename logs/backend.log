@@ -1,0 +1,859 @@
+
+25.7.2022, 14:46:56 - INFO - Server is running on port: 3030 
+25.7.2022, 14:51:17 - INFO - Server is running on port: 3030 
+25.7.2022, 15:07:43 - INFO - Server is running on port: 3030 
+25.7.2022, 15:49:55 - INFO - Server is running on port: 3030 
+25.7.2022, 16:57:40 - INFO - Server is running on port: 3030 
+25.7.2022, 17:01:46 - INFO - Server is running on port: 3030 
+25.7.2022, 17:02:05 - INFO - Server is running on port: 3030 
+25.7.2022, 17:02:22 - INFO - Server is running on port: 3030 
+25.7.2022, 17:53:20 - INFO - Server is running on port: 3030 
+25.7.2022, 18:51:18 - INFO - Server is running on port: 3030 
+25.7.2022, 18:51:43 - INFO - Server is running on port: 3030 
+25.7.2022, 19:53:49 - INFO - Server is running on port: 3030 
+25.7.2022, 22:46:35 - INFO - Server is running on port: 3030 
+25.7.2022, 22:46:41 - INFO - Server is running on port: 3030 
+25.7.2022, 22:48:13 - INFO - Server is running on port: 3030 
+25.7.2022, 22:49:19 - INFO - Server is running on port: 3030 
+25.7.2022, 22:50:15 - INFO - Server is running on port: 3030 
+25.7.2022, 23:08:26 - INFO - Server is running on port: 3030 
+25.7.2022, 23:09:07 - INFO - Server is running on port: 3030 
+25.7.2022, 23:18:03 - INFO - Server is running on port: 3030 
+26.7.2022, 8:24:37 - INFO - Server is running on port: 3030 
+26.7.2022, 10:08:10 - INFO - Server is running on port: 3030 
+26.7.2022, 10:08:22 - INFO - Server is running on port: 3030 
+26.7.2022, 10:14:36 - INFO - Server is running on port: 3030 
+26.7.2022, 10:15:33 - INFO - Server is running on port: 3030 
+26.7.2022, 10:18:28 - INFO - Server is running on port: 3030 
+26.7.2022, 10:18:54 - INFO - Server is running on port: 3030 
+26.7.2022, 10:20:30 - INFO - Server is running on port: 3030 
+26.7.2022, 10:20:59 - INFO - Server is running on port: 3030 
+26.7.2022, 10:25:44 - INFO - Server is running on port: 3030 
+26.7.2022, 10:26:37 - INFO - Server is running on port: 3030 
+26.7.2022, 10:28:13 - INFO - Server is running on port: 3030 
+26.7.2022, 10:30:20 - INFO - Server is running on port: 3030 
+26.7.2022, 10:33:33 - INFO - Server is running on port: 3030 
+26.7.2022, 10:34:08 - INFO - Server is running on port: 3030 
+26.7.2022, 10:40:14 - INFO - Server is running on port: 3030 
+26.7.2022, 10:41:13 - INFO - Server is running on port: 3030 
+26.7.2022, 10:42:16 - INFO - Server is running on port: 3030 
+26.7.2022, 10:42:26 - ERROR - Failed to remove stay | {"code":"ERR_HTTP_INVALID_STATUS_CODE"} (sid: ZPmbyB0Bbu4SnZqdk7-kyRONrpI3L037)
+26.7.2022, 10:42:58 - INFO - Server is running on port: 3030 
+26.7.2022, 10:47:06 - INFO - Server is running on port: 3030 
+26.7.2022, 10:47:33 - INFO - Server is running on port: 3030 
+26.7.2022, 10:51:22 - INFO - Server is running on port: 3030 
+26.7.2022, 10:53:21 - INFO - Server is running on port: 3030 
+26.7.2022, 10:54:14 - INFO - Server is running on port: 3030 
+26.7.2022, 10:55:11 - INFO - Server is running on port: 3030 
+26.7.2022, 10:55:32 - INFO - Server is running on port: 3030 
+26.7.2022, 10:57:21 - INFO - Server is running on port: 3030 
+26.7.2022, 11:01:57 - INFO - Server is running on port: 3030 
+26.7.2022, 11:03:37 - INFO - Server is running on port: 3030 
+26.7.2022, 14:08:33 - INFO - Server is running on port: 3030 
+26.7.2022, 14:17:42 - INFO - Server is running on port: 3030 
+26.7.2022, 16:54:45 - ERROR - Failed to add order | {} (sid: dIu3VNNo857TFlI1q2qjPmejudHw28nJ)
+26.7.2022, 16:55:32 - ERROR - Failed to add order | {} (sid: bmoFCVpdbdGSEnzBpgiTB9lTA_2NpI0k)
+26.7.2022, 16:56:34 - ERROR - Failed to add order | {} (sid: LI-nitroFOmHEk_64rxUwRRsKnXw7ocZ)
+26.7.2022, 17:28:04 - INFO - Server is running on port: 3030 
+26.7.2022, 17:29:02 - INFO - Server is running on port: 3030 
+26.7.2022, 17:29:32 - INFO - Server is running on port: 3030 
+26.7.2022, 17:30:14 - INFO - Server is running on port: 3030 
+26.7.2022, 17:33:22 - INFO - Server is running on port: 3030 
+26.7.2022, 17:35:19 - INFO - Server is running on port: 3030 
+26.7.2022, 17:38:50 - INFO - Server is running on port: 3030 
+26.7.2022, 18:04:02 - INFO - Server is running on port: 3030 
+26.7.2022, 18:05:04 - INFO - Server is running on port: 3030 
+26.7.2022, 18:07:10 - INFO - Server is running on port: 3030 
+26.7.2022, 18:08:21 - INFO - Server is running on port: 3030 
+26.7.2022, 18:09:39 - INFO - Server is running on port: 3030 
+26.7.2022, 18:11:21 - INFO - Server is running on port: 3030 
+26.7.2022, 18:24:50 - INFO - Server is running on port: 3030 
+26.7.2022, 18:25:56 - INFO - Server is running on port: 3030 
+26.7.2022, 18:34:27 - INFO - Server is running on port: 3030 
+26.7.2022, 18:47:11 - INFO - Server is running on port: 3030 
+26.7.2022, 19:01:12 - INFO - Server is running on port: 3030 
+26.7.2022, 20:11:53 - INFO - Server is running on port: 3030 
+26.7.2022, 20:14:56 - INFO - Server is running on port: 3030 
+26.7.2022, 20:17:54 - INFO - Server is running on port: 3030 
+26.7.2022, 20:18:35 - INFO - Server is running on port: 3030 
+26.7.2022, 20:19:22 - INFO - Server is running on port: 3030 
+26.7.2022, 20:23:19 - INFO - Server is running on port: 3030 
+26.7.2022, 20:24:36 - INFO - Server is running on port: 3030 
+26.7.2022, 20:27:09 - INFO - Server is running on port: 3030 
+26.7.2022, 20:34:47 - INFO - Server is running on port: 3030 
+26.7.2022, 20:42:54 - INFO - Server is running on port: 3030 
+26.7.2022, 20:45:25 - INFO - Server is running on port: 3030 
+26.7.2022, 20:51:04 - INFO - Server is running on port: 3030 
+26.7.2022, 21:01:29 - INFO - Server is running on port: 3030 
+26.7.2022, 21:18:00 - INFO - Server is running on port: 3030 
+26.7.2022, 21:18:37 - INFO - Server is running on port: 3030 
+26.7.2022, 21:19:36 - INFO - Server is running on port: 3030 
+26.7.2022, 21:20:19 - INFO - Server is running on port: 3030 
+26.7.2022, 21:24:04 - INFO - Server is running on port: 3030 
+26.7.2022, 21:29:36 - INFO - Server is running on port: 3030 
+26.7.2022, 21:36:01 - INFO - Server is running on port: 3030 
+26.7.2022, 21:36:53 - INFO - Server is running on port: 3030 
+26.7.2022, 21:37:13 - INFO - Server is running on port: 3030 
+26.7.2022, 21:37:26 - INFO - Server is running on port: 3030 
+26.7.2022, 21:43:03 - INFO - Server is running on port: 3030 
+26.7.2022, 21:43:32 - INFO - Server is running on port: 3030 
+26.7.2022, 21:44:08 - INFO - Server is running on port: 3030 
+26.7.2022, 21:49:48 - INFO - Server is running on port: 3030 
+26.7.2022, 21:52:35 - INFO - Server is running on port: 3030 
+26.7.2022, 21:54:47 - INFO - Server is running on port: 3030 
+26.7.2022, 21:55:17 - INFO - Server is running on port: 3030 
+26.7.2022, 22:03:39 - INFO - Server is running on port: 3030 
+26.7.2022, 22:04:03 - INFO - Server is running on port: 3030 
+26.7.2022, 22:05:35 - INFO - Server is running on port: 3030 
+26.7.2022, 22:06:31 - INFO - Server is running on port: 3030 
+26.7.2022, 22:09:36 - INFO - Server is running on port: 3030 
+26.7.2022, 22:10:36 - INFO - Server is running on port: 3030 
+26.7.2022, 22:14:51 - INFO - Server is running on port: 3030 
+26.7.2022, 22:15:07 - INFO - Server is running on port: 3030 
+26.7.2022, 22:15:28 - INFO - Server is running on port: 3030 
+26.7.2022, 22:18:35 - INFO - Server is running on port: 3030 
+26.7.2022, 22:19:07 - INFO - Server is running on port: 3030 
+26.7.2022, 22:19:51 - INFO - Server is running on port: 3030 
+26.7.2022, 22:20:10 - INFO - Server is running on port: 3030 
+26.7.2022, 22:21:56 - INFO - Server is running on port: 3030 
+26.7.2022, 22:23:38 - INFO - Server is running on port: 3030 
+26.7.2022, 22:27:16 - INFO - Server is running on port: 3030 
+26.7.2022, 22:27:43 - INFO - Server is running on port: 3030 
+26.7.2022, 22:27:55 - INFO - Server is running on port: 3030 
+26.7.2022, 22:29:17 - INFO - Server is running on port: 3030 
+26.7.2022, 22:34:03 - INFO - Server is running on port: 3030 
+26.7.2022, 22:35:56 - INFO - Server is running on port: 3030 
+26.7.2022, 22:43:14 - INFO - Server is running on port: 3030 
+26.7.2022, 22:47:48 - INFO - Server is running on port: 3030 
+26.7.2022, 22:48:16 - INFO - Server is running on port: 3030 
+26.7.2022, 22:48:35 - INFO - Server is running on port: 3030 
+26.7.2022, 22:49:06 - INFO - Server is running on port: 3030 
+26.7.2022, 23:03:14 - INFO - Server is running on port: 3030 
+26.7.2022, 23:04:23 - INFO - Server is running on port: 3030 
+26.7.2022, 23:05:39 - INFO - Server is running on port: 3030 
+26.7.2022, 23:07:14 - INFO - Server is running on port: 3030 
+26.7.2022, 23:11:49 - INFO - Server is running on port: 3030 
+26.7.2022, 23:12:09 - INFO - Server is running on port: 3030 
+26.7.2022, 23:12:28 - INFO - Server is running on port: 3030 
+26.7.2022, 23:12:59 - INFO - Server is running on port: 3030 
+26.7.2022, 23:13:17 - INFO - Server is running on port: 3030 
+26.7.2022, 23:13:26 - INFO - Server is running on port: 3030 
+26.7.2022, 23:14:16 - INFO - Server is running on port: 3030 
+26.7.2022, 23:17:13 - INFO - Server is running on port: 3030 
+26.7.2022, 23:17:39 - INFO - Server is running on port: 3030 
+26.7.2022, 23:18:14 - INFO - Server is running on port: 3030 
+26.7.2022, 23:26:37 - INFO - Server is running on port: 3030 
+26.7.2022, 23:27:18 - INFO - Server is running on port: 3030 
+26.7.2022, 23:27:39 - INFO - Server is running on port: 3030 
+26.7.2022, 23:29:25 - INFO - Server is running on port: 3030 
+26.7.2022, 23:33:19 - INFO - Server is running on port: 3030 
+26.7.2022, 23:36:09 - INFO - Server is running on port: 3030 
+26.7.2022, 23:36:43 - INFO - Server is running on port: 3030 
+26.7.2022, 23:37:00 - INFO - Server is running on port: 3030 
+26.7.2022, 23:37:05 - ERROR - cannot find orders | {"ok":0,"code":31254,"codeName":"Location31254","$clusterTime":{"clusterTime":{"$timestamp":"7124783056761651216"},"signature":{"hash":"/9PNKay00v5a/xzvAKt1tgRWXDM=","keyId":{"low":11,"high":1648391158,"unsigned":false}}},"operationTime":{"$timestamp":"7124783056761651216"}} (sid: bWL4Qzpap9Ljfh-hrT-OjmStwXbDPVW9)
+26.7.2022, 23:37:24 - INFO - Server is running on port: 3030 
+26.7.2022, 23:37:26 - ERROR - cannot find orders | {"ok":0,"code":31254,"codeName":"Location31254","$clusterTime":{"clusterTime":{"$timestamp":"7124783142660997152"},"signature":{"hash":"bGQmFsld9LK9N2OOMMBlC8OTdfY=","keyId":{"low":11,"high":1648391158,"unsigned":false}}},"operationTime":{"$timestamp":"7124783142660997152"}} (sid: 1nA2TCfEmfpENuKeKDfvhdHhMa-PfQHM)
+26.7.2022, 23:37:30 - ERROR - cannot find orders | {"ok":0,"code":31254,"codeName":"Location31254","$clusterTime":{"clusterTime":{"$timestamp":"7124783164135833627"},"signature":{"hash":"wyjOtlA0ALR+0MxC3pmI8AkXU+8=","keyId":{"low":11,"high":1648391158,"unsigned":false}}},"operationTime":{"$timestamp":"7124783164135833627"}} (sid: 1nA2TCfEmfpENuKeKDfvhdHhMa-PfQHM)
+26.7.2022, 23:37:31 - ERROR - cannot find orders | {"ok":0,"code":31254,"codeName":"Location31254","$clusterTime":{"clusterTime":{"$timestamp":"7124783168430800923"},"signature":{"hash":"1UJIFRwaAix5RZj9F7JfQyjN0FY=","keyId":{"low":11,"high":1648391158,"unsigned":false}}},"operationTime":{"$timestamp":"7124783168430800923"}} (sid: 1nA2TCfEmfpENuKeKDfvhdHhMa-PfQHM)
+26.7.2022, 23:38:00 - INFO - Server is running on port: 3030 
+26.7.2022, 23:40:03 - INFO - Server is running on port: 3030 
+26.7.2022, 23:40:04 - ERROR - cannot find orders | {"ok":0,"code":31254,"codeName":"Location31254","$clusterTime":{"clusterTime":{"$timestamp":"7124783825560797198"},"signature":{"hash":"7Iv/TuJFNLf/Osq7wXVVmWKK9Qs=","keyId":{"low":11,"high":1648391158,"unsigned":false}}},"operationTime":{"$timestamp":"7124783825560797198"}} (sid: zWVMFsXcwHwCSfF0iKmzYvIqU8o0TAT4)
+26.7.2022, 23:40:13 - INFO - Server is running on port: 3030 
+26.7.2022, 23:49:26 - INFO - Server is running on port: 3030 
+26.7.2022, 23:52:18 - INFO - Server is running on port: 3030 
+26.7.2022, 23:53:13 - INFO - Server is running on port: 3030 
+26.7.2022, 23:54:45 - INFO - Server is running on port: 3030 
+26.7.2022, 23:58:22 - INFO - Server is running on port: 3030 
+27.7.2022, 0:11:11 - INFO - Server is running on port: 3030 
+27.7.2022, 0:28:22 - INFO - Server is running on port: 3030 
+27.7.2022, 0:28:55 - INFO - Server is running on port: 3030 
+27.7.2022, 0:31:29 - INFO - Server is running on port: 3030 
+27.7.2022, 0:33:15 - INFO - Server is running on port: 3030 
+27.7.2022, 0:47:48 - INFO - Server is running on port: 3030 
+27.7.2022, 0:55:09 - INFO - Server is running on port: 3030 
+27.7.2022, 1:41:05 - INFO - Server is running on port: 3030 
+27.7.2022, 1:52:35 - INFO - Server is running on port: 3030 
+27.7.2022, 1:52:41 - INFO - Server is running on port: 3030 
+27.7.2022, 1:54:36 - INFO - Server is running on port: 3030 
+27.7.2022, 1:55:04 - INFO - Server is running on port: 3030 
+27.7.2022, 10:33:17 - INFO - Server is running on port: 3030 
+27.7.2022, 10:33:42 - ERROR - cannot find users | {} (sid: 9ZMxHQ51yuHVr4Vsx6d64cPKThhjPu6u)
+27.7.2022, 10:33:42 - ERROR - Failed to get users | {} (sid: 9ZMxHQ51yuHVr4Vsx6d64cPKThhjPu6u)
+27.7.2022, 10:34:49 - ERROR - cannot find users | {} (sid: 9ZMxHQ51yuHVr4Vsx6d64cPKThhjPu6u)
+27.7.2022, 10:34:49 - ERROR - Failed to get users | {} (sid: 9ZMxHQ51yuHVr4Vsx6d64cPKThhjPu6u)
+27.7.2022, 10:59:37 - INFO - Server is running on port: 3030 
+27.7.2022, 10:59:47 - INFO - Server is running on port: 3030 
+27.7.2022, 11:00:04 - INFO - Server is running on port: 3030 
+27.7.2022, 11:00:12 - INFO - Server is running on port: 3030 
+27.7.2022, 11:00:21 - INFO - Server is running on port: 3030 
+27.7.2022, 11:00:44 - INFO - Server is running on port: 3030 
+27.7.2022, 11:00:51 - INFO - Server is running on port: 3030 
+27.7.2022, 11:00:55 - INFO - Server is running on port: 3030 
+27.7.2022, 11:01:01 - INFO - Server is running on port: 3030 
+27.7.2022, 11:01:30 - INFO - Server is running on port: 3030 
+27.7.2022, 11:01:45 - ERROR - cannot find users | {} (sid: wCywvx48GWd6PXCvap_SF_MJZbfeH6k3)
+27.7.2022, 11:01:45 - ERROR - Failed to get users | {} (sid: wCywvx48GWd6PXCvap_SF_MJZbfeH6k3)
+27.7.2022, 11:03:23 - INFO - Server is running on port: 3030 
+27.7.2022, 11:04:25 - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+27/07/2022, 12:35:46 - INFO - Server is running on port: 3030 
+27/07/2022, 13:57:11 - INFO - Server is running on port: 3030 
+27/07/2022, 14:18:24 - INFO - Server is running on port: 3030 
+27/07/2022, 14:22:56 - INFO - Server is running on port: 3030 
+27/07/2022, 14:24:04 - INFO - Server is running on port: 3030 
+27/07/2022, 16:46:55 - ERROR - Failed to add order | {} (sid: EkcwgNqySs7nOUwCU9juliR0oYjD7ce8)
+27/07/2022, 16:47:12 - ERROR - Failed to add order | {} (sid: U9JDJ-1kTTuLJIn4XsNIFfygzUEX0kXv)
+28/07/2022, 9:54:19 - INFO - Server is running on port: 3030 
+28/07/2022, 11:05:24 - INFO - Server is running on port: 3030 
+28/07/2022, 11:50:59 - INFO - Server is running on port: 3030 
+28/07/2022, 11:55:58 - INFO - Server is running on port: 3030 
+28/07/2022, 11:56:58 - INFO - Server is running on port: 3030 
+28/07/2022, 11:58:02 - INFO - Server is running on port: 3030 
+28/07/2022, 12:02:30 - INFO - Server is running on port: 3030 
+28/07/2022, 12:03:54 - INFO - Server is running on port: 3030 
+28/07/2022, 12:04:43 - INFO - Server is running on port: 3030 
+28/07/2022, 12:04:46 - ERROR - cannot find stays | {} (sid: LC4iVZ4S9ljMpJlx6CzUWTsOjLg9F0-Q)
+28/07/2022, 12:04:46 - ERROR - Failed to get stays | {} (sid: LC4iVZ4S9ljMpJlx6CzUWTsOjLg9F0-Q)
+28/07/2022, 12:07:26 - ERROR - cannot find stays | {} (sid: EYKn17lDSd-gtn_v6qGrcumuW6jbhYYB)
+28/07/2022, 12:07:26 - ERROR - Failed to get stays | {} (sid: EYKn17lDSd-gtn_v6qGrcumuW6jbhYYB)
+28/07/2022, 12:15:34 - ERROR - cannot find stays | {} (sid: K9572lgehi-vU1cb3prgbHhFXGj2jq8d)
+28/07/2022, 12:15:34 - ERROR - Failed to get stays | {} (sid: K9572lgehi-vU1cb3prgbHhFXGj2jq8d)
+28/07/2022, 12:15:34 - ERROR - cannot find stays | {} (sid: 3UXksffPvLCirGomj_L0xFlRNljbSmhJ)
+28/07/2022, 12:15:34 - ERROR - Failed to get stays | {} (sid: 3UXksffPvLCirGomj_L0xFlRNljbSmhJ)
+28/07/2022, 12:16:58 - ERROR - cannot find stays | {} (sid: YC_PoU2iRu_HGEXAnEh6GbCIMObZbmbb)
+28/07/2022, 12:16:58 - ERROR - Failed to get stays | {} (sid: YC_PoU2iRu_HGEXAnEh6GbCIMObZbmbb)
+28/07/2022, 12:17:17 - ERROR - cannot find stays | {} (sid: qNTFzST9t4ti1M0i2j-N_nRcCGYuiNDJ)
+28/07/2022, 12:17:17 - ERROR - Failed to get stays | {} (sid: qNTFzST9t4ti1M0i2j-N_nRcCGYuiNDJ)
+28/07/2022, 12:17:50 - ERROR - cannot find stays | {} (sid: rrVK7ps6KWkfZVa469mcDvoFxUwIcda8)
+28/07/2022, 12:17:50 - ERROR - Failed to get stays | {} (sid: rrVK7ps6KWkfZVa469mcDvoFxUwIcda8)
+28/07/2022, 12:18:29 - INFO - Server is running on port: 3030 
+28/07/2022, 12:18:31 - ERROR - cannot find stays | {} (sid: 77KI3xrb5tA25vPvsYLDGdx9Gjt0Rqi3)
+28/07/2022, 12:18:31 - ERROR - Failed to get stays | {} (sid: 77KI3xrb5tA25vPvsYLDGdx9Gjt0Rqi3)
+28/07/2022, 12:20:39 - ERROR - cannot find stays | {} (sid: gWHSegD82-8FJSlYNCDEtVWiaeZVwP6E)
+28/07/2022, 12:20:39 - ERROR - Failed to get stays | {} (sid: gWHSegD82-8FJSlYNCDEtVWiaeZVwP6E)
+28/07/2022, 12:21:42 - ERROR - cannot find stays | {} (sid: rffZJtoFCiRmbMEcgHN3iQJfcPvEOOBO)
+28/07/2022, 12:21:42 - ERROR - Failed to get stays | {} (sid: rffZJtoFCiRmbMEcgHN3iQJfcPvEOOBO)
+28/07/2022, 12:22:47 - ERROR - cannot find stays | {} (sid: Yc4X302UpkMAL6KRZiGm7Z2HueZuT_Ve)
+28/07/2022, 12:22:47 - ERROR - Failed to get stays | {} (sid: Yc4X302UpkMAL6KRZiGm7Z2HueZuT_Ve)
+28/07/2022, 12:23:01 - ERROR - cannot find stays | {} (sid: AAOqYosFZfKPgn2ZJd0G-N7PkOj3TzHw)
+28/07/2022, 12:23:01 - ERROR - Failed to get stays | {} (sid: AAOqYosFZfKPgn2ZJd0G-N7PkOj3TzHw)
+28/07/2022, 12:31:21 - ERROR - cannot find stays | {} (sid: nTgtaEgFE7HkHcm9hrAiyTTd5Pb2IeiX)
+28/07/2022, 12:31:21 - ERROR - Failed to get stays | {} (sid: nTgtaEgFE7HkHcm9hrAiyTTd5Pb2IeiX)
+28/07/2022, 12:31:24 - ERROR - cannot find stays | {} (sid: ctTO9zfDNLIKIu1IszvPtnp19F99hXks)
+28/07/2022, 12:31:24 - ERROR - Failed to get stays | {} (sid: ctTO9zfDNLIKIu1IszvPtnp19F99hXks)
+28/07/2022, 12:32:33 - INFO - Server is running on port: 3030 
+28/07/2022, 13:54:02 - INFO - Server is running on port: 3030 
+28/07/2022, 13:54:23 - INFO - Server is running on port: 3030 
+28/07/2022, 14:00:28 - ERROR - cannot find stays | {} (sid: VqorfLQqSC7M-8nQZbX9nS_YCpBVBlEs)
+28/07/2022, 14:00:28 - ERROR - Failed to get stays | {} (sid: VqorfLQqSC7M-8nQZbX9nS_YCpBVBlEs)
+28/07/2022, 14:00:49 - INFO - Server is running on port: 3030 
+28/07/2022, 14:00:52 - ERROR - cannot find stays | {} (sid: g2Kb-M4lf-Uq9HhN8NfxvjBZgaVlaxQi)
+28/07/2022, 14:00:52 - ERROR - Failed to get stays | {} (sid: g2Kb-M4lf-Uq9HhN8NfxvjBZgaVlaxQi)
+28/07/2022, 14:00:53 - ERROR - cannot find stays | {} (sid: HlaBkbhHVjmF07vw9zvP-toKdue_Y5MH)
+28/07/2022, 14:00:53 - ERROR - Failed to get stays | {} (sid: HlaBkbhHVjmF07vw9zvP-toKdue_Y5MH)
+28/07/2022, 14:00:54 - ERROR - cannot find stays | {} (sid: r-bSeiP5p6WJw1wKkwuqbzMJEKRfYZ7o)
+28/07/2022, 14:00:54 - ERROR - Failed to get stays | {} (sid: r-bSeiP5p6WJw1wKkwuqbzMJEKRfYZ7o)
+28/07/2022, 14:01:18 - INFO - Server is running on port: 3030 
+28/07/2022, 15:47:42 - INFO - Server is running on port: 3030 
+28/07/2022, 16:07:01 - INFO - Server is running on port: 3030 
+28/07/2022, 16:09:17 - INFO - Server is running on port: 3030 
+28/07/2022, 16:09:30 - INFO - Server is running on port: 3030 
+28/07/2022, 16:09:39 - ERROR - cannot find stays | {} (sid: 13GksFbpPmwpDHXpu_4uBKg04q_XFzls)
+28/07/2022, 16:09:39 - ERROR - Failed to get stays | {} (sid: 13GksFbpPmwpDHXpu_4uBKg04q_XFzls)
+28/07/2022, 16:10:33 - INFO - Server is running on port: 3030 
+28/07/2022, 16:10:58 - INFO - Server is running on port: 3030 
+28/07/2022, 16:11:10 - INFO - Server is running on port: 3030 
+28/07/2022, 16:12:08 - ERROR - cannot find stays | {} (sid: KVSodpImsBEKJ3JYqVesr1R5LSauoJuG)
+28/07/2022, 16:12:08 - ERROR - Failed to get stays | {} (sid: KVSodpImsBEKJ3JYqVesr1R5LSauoJuG)
+28/07/2022, 16:12:56 - INFO - Server is running on port: 3030 
+28/07/2022, 16:38:46 - INFO - Server is running on port: 3030 
+28/07/2022, 17:24:58 - INFO - Server is running on port: 3030 
+28/07/2022, 18:36:51 - INFO - Server is running on port: 3030 
+28/07/2022, 19:51:17 - INFO - Server is running on port: 3030 
+29/07/2022, 11:55:32 - ERROR - Failed to add order | {} (sid: L9yyH5jR-qzzbEg5eu_DnVCmPGK9ANJQ)
+29/07/2022, 11:55:36 - ERROR - Failed to add order | {} (sid: VJ8XztQCirYmi5hABXD-hBwuijHPHTh5)
+29/07/2022, 13:13:04 - INFO - Server is running on port: 3030 
+29/07/2022, 13:30:52 - INFO - Server is running on port: 3030 
+29/07/2022, 13:31:32 - INFO - Server is running on port: 3030 
+29/07/2022, 13:40:19 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: uso9k8PWnUvMzISLgw6tiwJqtq2Um_wx)
+29/07/2022, 13:40:19 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: uso9k8PWnUvMzISLgw6tiwJqtq2Um_wx)
+29/07/2022, 13:41:18 - INFO - Server is running on port: 3030 
+29/07/2022, 13:41:50 - INFO - Server is running on port: 3030 
+29/07/2022, 13:45:00 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: TP2XtOLvtOWylbHl6iQKX6tzJILW4YO_)
+29/07/2022, 13:45:00 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: TP2XtOLvtOWylbHl6iQKX6tzJILW4YO_)
+29/07/2022, 13:46:16 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: bVykgTYF7_4S6fYSGYshI_crVH6y-Z0j)
+29/07/2022, 13:46:16 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: bVykgTYF7_4S6fYSGYshI_crVH6y-Z0j)
+29/07/2022, 13:46:47 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: CYfK6OSpi14Hi_QtaSaX9hn9DsVlDNtZ)
+29/07/2022, 13:46:47 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: CYfK6OSpi14Hi_QtaSaX9hn9DsVlDNtZ)
+29/07/2022, 13:46:58 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: p08sLK_qDSEW9gS0WLlffBgxMzPWbMOd)
+29/07/2022, 13:46:58 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: p08sLK_qDSEW9gS0WLlffBgxMzPWbMOd)
+29/07/2022, 13:48:01 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf779"}} (sid: sYnYj_VOBgmPVv-vN8k08zS010eXFnbM)
+29/07/2022, 13:48:01 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf779"}} (sid: sYnYj_VOBgmPVv-vN8k08zS010eXFnbM)
+29/07/2022, 13:48:03 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf779"}} (sid: r3ipHh8M6YaEUNPWhK9DTzuuPNBRXocQ)
+29/07/2022, 13:48:03 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf779"}} (sid: r3ipHh8M6YaEUNPWhK9DTzuuPNBRXocQ)
+29/07/2022, 13:48:03 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf779"}} (sid: 8ujc8neO7zkxLtosNyML-tPcZufF-rra)
+29/07/2022, 13:48:03 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf779"}} (sid: 8ujc8neO7zkxLtosNyML-tPcZufF-rra)
+29/07/2022, 13:48:05 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77a"}} (sid: p1vhOcR-r-Gr5Plx_yvDwPK7d1xguaq1)
+29/07/2022, 13:48:05 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77a"}} (sid: p1vhOcR-r-Gr5Plx_yvDwPK7d1xguaq1)
+29/07/2022, 13:48:08 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77b"}} (sid: e7K7gBVeiNmmzrfjrDJ7rbQuc8yV3amp)
+29/07/2022, 13:48:08 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77b"}} (sid: e7K7gBVeiNmmzrfjrDJ7rbQuc8yV3amp)
+29/07/2022, 13:49:04 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77e"}} (sid: LPl28-UEN8WWAJqcXW-fW22dDa_ioVo4)
+29/07/2022, 13:49:04 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77e"}} (sid: LPl28-UEN8WWAJqcXW-fW22dDa_ioVo4)
+29/07/2022, 13:49:06 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77d"}} (sid: PJ4tPqWWYiqg0dL-o7TEQvi49Qf_pX-5)
+29/07/2022, 13:49:06 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77d"}} (sid: PJ4tPqWWYiqg0dL-o7TEQvi49Qf_pX-5)
+29/07/2022, 13:49:17 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: LQKKZ7hk8hXg_28o43PS34Edyh7K6XTi)
+29/07/2022, 13:49:17 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: LQKKZ7hk8hXg_28o43PS34Edyh7K6XTi)
+29/07/2022, 13:49:17 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: VFLOsOYAtkM9J9vzP51-YH7Ei6imN3jY)
+29/07/2022, 13:49:17 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: VFLOsOYAtkM9J9vzP51-YH7Ei6imN3jY)
+29/07/2022, 13:49:27 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: -r-y24CYH9l9XAXrimiktDpgjIbBQd-K)
+29/07/2022, 13:49:27 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: -r-y24CYH9l9XAXrimiktDpgjIbBQd-K)
+29/07/2022, 13:49:27 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: qtfigYyHoF1UbO80APgKlTFZeADsONKS)
+29/07/2022, 13:49:27 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: qtfigYyHoF1UbO80APgKlTFZeADsONKS)
+29/07/2022, 13:51:05 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: 33mxLgGvwhqPZPHsgwHiT14ospCHJ6t7)
+29/07/2022, 13:51:05 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: 33mxLgGvwhqPZPHsgwHiT14ospCHJ6t7)
+29/07/2022, 13:51:05 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: btHO-I4rt1i64rkotcanmIwABXSZR5q0)
+29/07/2022, 13:51:05 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: btHO-I4rt1i64rkotcanmIwABXSZR5q0)
+29/07/2022, 13:51:36 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: KAYou_jCFbPcBlvT6ON8gAXp4C8roC8C)
+29/07/2022, 13:51:36 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: KAYou_jCFbPcBlvT6ON8gAXp4C8roC8C)
+29/07/2022, 13:51:36 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: _hFIxIYxz0YiGo18Qx8GA8NRNXjUFsCC)
+29/07/2022, 13:51:36 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: _hFIxIYxz0YiGo18Qx8GA8NRNXjUFsCC)
+29/07/2022, 13:52:20 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf780"}} (sid: gd7M1XcpYaI8vOfBSmZCQWZlFNsuU9Hc)
+29/07/2022, 13:52:20 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf780"}} (sid: gd7M1XcpYaI8vOfBSmZCQWZlFNsuU9Hc)
+29/07/2022, 13:52:22 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77e"}} (sid: KqxZYU29EcDhxyj_yAEaTF1D82p7GVTZ)
+29/07/2022, 13:52:22 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77e"}} (sid: KqxZYU29EcDhxyj_yAEaTF1D82p7GVTZ)
+29/07/2022, 13:52:22 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77e"}} (sid: jSuzKBpOoLmoGGhgWDGM-KmUHop8GbIO)
+29/07/2022, 13:52:22 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77e"}} (sid: jSuzKBpOoLmoGGhgWDGM-KmUHop8GbIO)
+29/07/2022, 13:52:28 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: ZVWupyFYqZSTzj2cLbBEjLiiaGjYWv9S)
+29/07/2022, 13:52:28 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: ZVWupyFYqZSTzj2cLbBEjLiiaGjYWv9S)
+29/07/2022, 13:52:28 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: CQRMaQyabjPRxv_p18OxweojYsZzK87i)
+29/07/2022, 13:52:28 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: CQRMaQyabjPRxv_p18OxweojYsZzK87i)
+29/07/2022, 13:53:00 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: -UYlbCdDd1jyprtmEtRs-kdyatIhj5u4)
+29/07/2022, 13:53:00 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: -UYlbCdDd1jyprtmEtRs-kdyatIhj5u4)
+29/07/2022, 13:53:00 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: CkO1Bk-WE_Sg5N2mD_6B71QI1s-GttJC)
+29/07/2022, 13:53:00 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: CkO1Bk-WE_Sg5N2mD_6B71QI1s-GttJC)
+29/07/2022, 13:54:06 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: Csa9NH-N77FqC8FdLsEqOpNJL6JlTCEh)
+29/07/2022, 13:54:06 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: Csa9NH-N77FqC8FdLsEqOpNJL6JlTCEh)
+29/07/2022, 13:54:06 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: e23BgsdBu0mEOdk444Q3Zu-pDvsA4ZY7)
+29/07/2022, 13:54:06 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: e23BgsdBu0mEOdk444Q3Zu-pDvsA4ZY7)
+29/07/2022, 13:54:49 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: -zGWhf4UcoVh0O3pNEb1D_Ovzvt36zNH)
+29/07/2022, 13:54:49 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: -zGWhf4UcoVh0O3pNEb1D_Ovzvt36zNH)
+29/07/2022, 13:54:49 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: 2hvKYFvV1DMGLqYnlowM1N0YQPUO14by)
+29/07/2022, 13:54:49 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: 2hvKYFvV1DMGLqYnlowM1N0YQPUO14by)
+29/07/2022, 13:55:21 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: VKDtgbwbk5UwHIUQTkwH3ms9N4IGl-bC)
+29/07/2022, 13:55:21 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: VKDtgbwbk5UwHIUQTkwH3ms9N4IGl-bC)
+29/07/2022, 13:55:21 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: cLgfyBNqx-_qpYjkVbDpg2SkAfbVMcLw)
+29/07/2022, 13:55:21 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: cLgfyBNqx-_qpYjkVbDpg2SkAfbVMcLw)
+29/07/2022, 13:59:56 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: kqjjMlwPNqZb9gS8c6-Z3SZZJ-Cyt01Q)
+29/07/2022, 13:59:56 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: kqjjMlwPNqZb9gS8c6-Z3SZZJ-Cyt01Q)
+29/07/2022, 13:59:56 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: 9RyNPkkqyMCIDZPDC-k4rv7yuD1dPMhf)
+29/07/2022, 13:59:56 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: 9RyNPkkqyMCIDZPDC-k4rv7yuD1dPMhf)
+29/07/2022, 14:01:47 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf780"}} (sid: X9yX-eb7IyWL9J2GzfZDZs_ZkJF3Jp-q)
+29/07/2022, 14:01:48 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf780"}} (sid: X9yX-eb7IyWL9J2GzfZDZs_ZkJF3Jp-q)
+29/07/2022, 14:01:48 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf780"}} (sid: d7LmebM_pjrysxT-Em22ewEuz-uOIkia)
+29/07/2022, 14:01:48 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf780"}} (sid: d7LmebM_pjrysxT-Em22ewEuz-uOIkia)
+29/07/2022, 14:04:08 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: FTAcCq14OFbsDsGo9RIP6Rm9kjLbXSVE)
+29/07/2022, 14:04:08 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: FTAcCq14OFbsDsGo9RIP6Rm9kjLbXSVE)
+29/07/2022, 14:04:08 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: AyDcV3qlMCROb4dapwSBoaDfKygrbW7t)
+29/07/2022, 14:04:08 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: AyDcV3qlMCROb4dapwSBoaDfKygrbW7t)
+29/07/2022, 14:04:10 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: VQXRdUohB_-McJWBiyXixGvQUFbp9rQC)
+29/07/2022, 14:04:10 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: VQXRdUohB_-McJWBiyXixGvQUFbp9rQC)
+29/07/2022, 14:04:10 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: -xYHK5zLewu_9pmqtLV3SkOdtfW7_lvs)
+29/07/2022, 14:04:10 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: -xYHK5zLewu_9pmqtLV3SkOdtfW7_lvs)
+29/07/2022, 14:04:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: LGm8ecL9TNceU-FAngCqEOpT7z9mw09Z)
+29/07/2022, 14:04:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: LGm8ecL9TNceU-FAngCqEOpT7z9mw09Z)
+29/07/2022, 14:04:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: jHCeKS5T02dJ-dkm3lU5k_T3e1dh_Fy-)
+29/07/2022, 14:04:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: jHCeKS5T02dJ-dkm3lU5k_T3e1dh_Fy-)
+29/07/2022, 14:04:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: FPNQ0TNtlU8uLUmVZgXrRYuwiIz-5QuP)
+29/07/2022, 14:04:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: FPNQ0TNtlU8uLUmVZgXrRYuwiIz-5QuP)
+29/07/2022, 14:04:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: pmB_q6tcr6gMHfbn-KNgqrk8a0Sf9Ukr)
+29/07/2022, 14:04:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: pmB_q6tcr6gMHfbn-KNgqrk8a0Sf9Ukr)
+29/07/2022, 14:04:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: eqoZfeB_POmWK6-AeiAtDVsvhjqDsRo4)
+29/07/2022, 14:04:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: eqoZfeB_POmWK6-AeiAtDVsvhjqDsRo4)
+29/07/2022, 14:04:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: V6mqhBZVuo3Jpe1GPzpNW9Frn-GtlEfR)
+29/07/2022, 14:04:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf77c"}} (sid: V6mqhBZVuo3Jpe1GPzpNW9Frn-GtlEfR)
+29/07/2022, 14:05:03 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: U4_uY_lIsIxFbMRaP-1yn6GJE6lIueG5)
+29/07/2022, 14:05:03 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: U4_uY_lIsIxFbMRaP-1yn6GJE6lIueG5)
+29/07/2022, 14:05:03 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: WMt1RvMmD61hxaIrtPBHd1JcCYCSWW-Z)
+29/07/2022, 14:05:03 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: WMt1RvMmD61hxaIrtPBHd1JcCYCSWW-Z)
+29/07/2022, 14:06:50 - INFO - Server is running on port: 3030 
+29/07/2022, 14:06:58 - INFO - Server is running on port: 3030 
+29/07/2022, 14:07:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: I8x_bmPkYxMTFeGqsejfioLwOx_Unh8u)
+29/07/2022, 14:07:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: I8x_bmPkYxMTFeGqsejfioLwOx_Unh8u)
+29/07/2022, 14:07:11 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: Ir6nV8KBGHp4gUnH2qGHPgcR4q5UNDyr)
+29/07/2022, 14:07:11 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: Ir6nV8KBGHp4gUnH2qGHPgcR4q5UNDyr)
+29/07/2022, 14:08:32 - INFO - Server is running on port: 3030 
+29/07/2022, 14:08:37 - INFO - Server is running on port: 3030 
+29/07/2022, 14:08:46 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: JDt4zGU3hgNr0sa9MoZnt5LT-nIJWdJC)
+29/07/2022, 14:08:46 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: JDt4zGU3hgNr0sa9MoZnt5LT-nIJWdJC)
+29/07/2022, 14:08:46 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: fjUvuT_SG4oqWgK2jt7o02XlErQlo1QN)
+29/07/2022, 14:08:46 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf778"}} (sid: fjUvuT_SG4oqWgK2jt7o02XlErQlo1QN)
+29/07/2022, 14:15:21 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: Sy9MbXxjTScSEhUoXG2lweOujraFR-zL)
+29/07/2022, 14:15:21 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: Sy9MbXxjTScSEhUoXG2lweOujraFR-zL)
+29/07/2022, 14:15:21 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: 6KQFiExy5T5mPftjT3AGyiflutxWdJzP)
+29/07/2022, 14:15:21 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: 6KQFiExy5T5mPftjT3AGyiflutxWdJzP)
+29/07/2022, 14:16:30 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: GUT3qDvULCt4Yw6Uh5wIChzY_WvCf-m0)
+29/07/2022, 14:16:30 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: GUT3qDvULCt4Yw6Uh5wIChzY_WvCf-m0)
+29/07/2022, 14:16:30 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: 1v6_ZdCRrkZV4TgYvsQZguVr9weGzAka)
+29/07/2022, 14:16:30 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: 1v6_ZdCRrkZV4TgYvsQZguVr9weGzAka)
+29/07/2022, 14:16:33 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: qaacT_GcdpYWbfe1RSe9yaBQOjl2c4Ju)
+29/07/2022, 14:16:33 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: qaacT_GcdpYWbfe1RSe9yaBQOjl2c4Ju)
+29/07/2022, 14:16:33 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: pckNk58yr6fjH97hs_B_SSPjZNzcxm8D)
+29/07/2022, 14:16:33 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: pckNk58yr6fjH97hs_B_SSPjZNzcxm8D)
+29/07/2022, 14:18:15 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: iLmHp_rjzvTfLVv7-uHiTWHKsx63i7SK)
+29/07/2022, 14:18:15 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: iLmHp_rjzvTfLVv7-uHiTWHKsx63i7SK)
+29/07/2022, 14:18:15 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: mKRG4v_68GLF1iaEVT77ktNA7cFQA-Pq)
+29/07/2022, 14:18:15 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: mKRG4v_68GLF1iaEVT77ktNA7cFQA-Pq)
+29/07/2022, 14:19:58 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: Trifunr9HougwjJWcTePoMpHeYYKMo0b)
+29/07/2022, 14:19:58 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: Trifunr9HougwjJWcTePoMpHeYYKMo0b)
+29/07/2022, 14:19:58 - ERROR - cannot insert stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: aUOPUgaKfhaQECOHTykusmBM1HleWxHW)
+29/07/2022, 14:19:58 - ERROR - Failed to add stay | {"index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":"62dfab59d687d9bed9fdf777"}} (sid: aUOPUgaKfhaQECOHTykusmBM1HleWxHW)
+29/07/2022, 15:49:41 - INFO - Server is running on port: 3030 
+29/07/2022, 17:41:32 - INFO - Server is running on port: 3030 
+29/07/2022, 19:32:39 - INFO - Server is running on port: 3030 
+29/07/2022, 23:41:30 - INFO - Server is running on port: 3030 
+30/07/2022, 11:42:22 - INFO - Server is running on port: 3030 
+30/07/2022, 15:55:28 - ERROR - Failed to add order | {} (sid: KKH6yoBvB61olmPJ6ThaHRy62G3BJ88K)
+30/07/2022, 19:27:41 - ERROR - Failed to add order | {} (sid: cafM5mXfwkFJRHzlpZaq4DLQjEHiEGJG)
+30/07/2022, 22:06:33 - ERROR - Failed to add order | {} (sid: fpvMQzl2CXbJKSgNADHMWmcRgUuKkcHw)
+=======
+27.7.2022, 14:01:41 - INFO - Server is running on port: 3030 
+27.7.2022, 14:16:20 - INFO - Server is running on port: 3030 
+27.7.2022, 16:13:06 - INFO - Server is running on port: 3030 
+27.7.2022, 16:24:38 - ERROR - Failed to add order | {} (sid: 2XfuU0yqfuK06nOS0VgOJNdStI6jwD7y)
+27.7.2022, 23:23:09 - INFO - Server is running on port: 3030 
+27.7.2022, 23:23:51 - INFO - Server is running on port: 3030 
+27.7.2022, 23:34:14 - INFO - Server is running on port: 3030 
+27.7.2022, 23:38:57 - INFO - Server is running on port: 3030 
+27.7.2022, 23:41:17 - INFO - Server is running on port: 3030 
+27.7.2022, 23:42:57 - INFO - Server is running on port: 3030 
+28.7.2022, 3:41:24 - INFO - Server is running on port: 3030 
+28.7.2022, 3:42:39 - INFO - Server is running on port: 3030 
+28.7.2022, 8:36:12 - INFO - Server is running on port: 3030 
+28.7.2022, 8:36:23 - INFO - Server is running on port: 3030 
+28.7.2022, 8:36:51 - INFO - Server is running on port: 3030 
+28.7.2022, 8:38:27 - INFO - Server is running on port: 3030 
+28.7.2022, 8:39:17 - INFO - Server is running on port: 3030 
+28.7.2022, 8:40:02 - INFO - Server is running on port: 3030 
+28.7.2022, 8:40:20 - INFO - Server is running on port: 3030 
+28.7.2022, 8:43:38 - INFO - Server is running on port: 3030 
+28.7.2022, 8:44:33 - INFO - Server is running on port: 3030 
+28.7.2022, 8:46:02 - INFO - Server is running on port: 3030 
+28.7.2022, 8:47:10 - INFO - Server is running on port: 3030 
+28.7.2022, 8:48:41 - INFO - Server is running on port: 3030 
+28.7.2022, 8:50:20 - INFO - Server is running on port: 3030 
+28.7.2022, 8:53:45 - INFO - Server is running on port: 3030 
+28.7.2022, 8:54:59 - INFO - Server is running on port: 3030 
+28.7.2022, 9:04:04 - INFO - Server is running on port: 3030 
+28.7.2022, 9:06:59 - INFO - Server is running on port: 3030 
+28.7.2022, 9:08:40 - INFO - Server is running on port: 3030 
+28.7.2022, 9:09:17 - INFO - Server is running on port: 3030 
+28.7.2022, 9:09:53 - INFO - Server is running on port: 3030 
+28.7.2022, 10:03:10 - INFO - Server is running on port: 3030 
+27.7.2022, 14:39:00 - INFO - Server is running on port: 3030 
+27.7.2022, 15:12:04 - INFO - Server is running on port: 3030 
+27.7.2022, 15:37:08 - INFO - Server is running on port: 3030 
+27.7.2022, 16:06:19 - INFO - Server is running on port: 3030 
+27.7.2022, 16:08:28 - INFO - Server is running on port: 3030 
+27.7.2022, 16:17:31 - INFO - Server is running on port: 3030 
+27.7.2022, 16:17:59 - INFO - Server is running on port: 3030 
+27.7.2022, 16:18:29 - INFO - Server is running on port: 3030 
+27.7.2022, 21:12:11 - ERROR - Failed to add order | {} (sid: -aq6nkWLsygzWS4S7r6kbY_cGnGg-G3x)
+27.7.2022, 21:48:57 - ERROR - Failed to add order | {} (sid: Arfyb0bd_E75G5kNAVsbKwPqcBl3TYIm)
+27.7.2022, 21:49:12 - ERROR - Failed to add order | {} (sid: wwwuZ1JEjrPzL4Fd1BZNFa31E6lYfOPU)
+27.7.2022, 21:49:14 - ERROR - Failed to add order | {} (sid: bqqznKp1CoaYVhLdxfgd84Zvg9QKk51g)
+27.7.2022, 21:53:07 - INFO - Server is running on port: 3030 
+27.7.2022, 21:53:13 - ERROR - Failed to add order | {} (sid: PDJ-X_QQ2qviVeqB50hk0k1g3bxgtSbP)
+27.7.2022, 21:54:12 - INFO - Server is running on port: 3030 
+27.7.2022, 21:54:16 - ERROR - Failed to add order | {} (sid: nVziZgWRUo2E6QK7vLQSZX3TpYrgHmOw)
+27.7.2022, 21:55:51 - INFO - Server is running on port: 3030 
+27.7.2022, 21:55:57 - ERROR - Failed to add order | {} (sid: y9SwSnBmCgrz7oZXVnFaURF02sNNu_qz)
+27.7.2022, 21:57:32 - INFO - Server is running on port: 3030 
+27.7.2022, 21:58:11 - INFO - Server is running on port: 3030 
+27.7.2022, 21:59:05 - INFO - Server is running on port: 3030 
+27.7.2022, 21:59:53 - INFO - Server is running on port: 3030 
+27.7.2022, 22:00:04 - ERROR - Failed to add order | {} (sid: 0dxU-y9y0QvrRu5fRDMpFvgYRe3svgcz)
+27.7.2022, 22:00:23 - ERROR - Failed to add order | {} (sid: R9tfP4z2ezdqTbymx0dcXcSMh6i8xSOQ)
+27.7.2022, 22:06:47 - INFO - Server is running on port: 3030 
+27.7.2022, 22:07:08 - INFO - Server is running on port: 3030 
+27.7.2022, 22:07:10 - INFO - Server is running on port: 3030 
+27.7.2022, 22:07:12 - INFO - Server is running on port: 3030 
+27.7.2022, 22:07:18 - ERROR - cannot insert order | {} (sid: TNb2FWSSmkD4KoAiDEat_7jWn2v5EmnL)
+27.7.2022, 22:07:18 - ERROR - Failed to add order | {} (sid: TNb2FWSSmkD4KoAiDEat_7jWn2v5EmnL)
+27.7.2022, 22:07:39 - ERROR - cannot insert order | {} (sid: bQpZTd9pEZ40FyiJZ5wdEpfYTV1RZyHZ)
+27.7.2022, 22:07:39 - ERROR - Failed to add order | {} (sid: bQpZTd9pEZ40FyiJZ5wdEpfYTV1RZyHZ)
+27.7.2022, 22:08:50 - INFO - Server is running on port: 3030 
+27.7.2022, 22:10:41 - DEBUG - Emiting to user socket: undefined (sid: 4XOk61ApBt25fB73L13ciUV4PtoLEano)
+27.7.2022, 22:19:22 - DEBUG - Emiting to user socket: undefined (sid: fEHL77tfjIE4sDv9Z6Hru9Gjhfx74R7l)
+27.7.2022, 22:21:22 - DEBUG - Emiting to user socket: undefined (sid: gByW-gUieJOB0D6_MPtfm_jjT5C_B9Vo)
+27.7.2022, 23:23:11 - INFO - Server is running on port: 3030 
+27.7.2022, 23:26:05 - DEBUG - Emiting to user socket: undefined (sid: 63Allh4yM5oqMrKooNPNkjoyzEig7bzy)
+28.7.2022, 0:35:41 - DEBUG - Emiting to user socket: undefined (sid: BmfuHjsML3O6UYwTht8QypWhmnZa7m3B)
+28.7.2022, 0:42:30 - DEBUG - Emiting to user socket: undefined (sid: OM8e6pXfKr_tRRqdfodwBSoGEVQ9nctq)
+28.7.2022, 0:42:33 - DEBUG - Emiting to user socket: undefined (sid: uJlCvohwxLxyITCA2tvOlLnUxrtS4XQY)
+28.7.2022, 1:02:11 - INFO - Server is running on port: 3030 
+28.7.2022, 1:13:01 - DEBUG - Emiting to user socket: undefined (sid: Oioni53M-mxWUmvtJ19zWlpd1nGEY-Ee)
+28.7.2022, 1:17:42 - DEBUG - Emiting to user socket: undefined (sid: NeghgnWgrNnTJ_Gu58joXYu-wp3oeYwC)
+28.7.2022, 1:17:53 - DEBUG - Emiting to user socket: undefined (sid: OdJ1QHfUAgPvoD8GEEV2dcYO80FL_gMm)
+28.7.2022, 1:21:12 - DEBUG - Emiting to user socket: undefined (sid: ZCC_8W7vTk6MWMFVr8X1Wmy_ubwEd7NP)
+28.7.2022, 1:23:25 - DEBUG - Emiting to user socket: undefined (sid: RaKHNb6biEO-Hu6NBqxFkWMc6TlkPQnf)
+28.7.2022, 1:25:52 - DEBUG - Emiting to user socket: undefined (sid: WbyOgjxih25Wqrpi0NsLykgl0KExrHHP)
+28.7.2022, 1:26:38 - DEBUG - Emiting to user socket: undefined (sid: VzHVwvlSZJGS1n3wAUoP67tCRF-v1nRS)
+28.7.2022, 1:33:06 - DEBUG - Emiting to user socket: undefined (sid: 4vETc0NWXZogkynTLbSGyKTCmij4t83j)
+28.7.2022, 3:49:24 - INFO - Server is running on port: 3030 
+28.7.2022, 3:50:00 - INFO - Server is running on port: 3030 
+28.7.2022, 11:06:14 - INFO - Server is running on port: 3030 
+28.7.2022, 11:25:30 - INFO - Server is running on port: 3030 
+28.7.2022, 11:26:28 - INFO - Server is running on port: 3030 
+28.7.2022, 11:26:47 - INFO - Server is running on port: 3030 
+28.7.2022, 11:27:40 - INFO - Server is running on port: 3030 
+28.7.2022, 12:56:32 - DEBUG - Emiting to user socket: undefined (sid: YxqU1ye5tg9rFFF35CXyFe4tUR6BX9ga)
+28.7.2022, 14:02:39 - DEBUG - Emiting to user socket: undefined (sid: Oknu-VTFbjGHcUB0uCFXIb-yRCUnm4Ae)
+28.7.2022, 14:09:09 - DEBUG - Emiting to user socket: undefined (sid: ShNrJ4LN1WmqmPgEBm-gbLB0xOtPM_vL)
+28.7.2022, 14:43:03 - DEBUG - Emiting to user socket: undefined (sid: eMnAsmVsyrGSzNY56AlMXAjCxtu-3pKq)
+28.7.2022, 14:44:08 - DEBUG - Emiting to user socket: undefined (sid: bx0N5PlJHeDEmAtF3Ta7DDGEf_Odzy5e)
+28.7.2022, 11:05:21 - INFO - Server is running on port: 3030 
+28.7.2022, 12:47:32 - INFO - Server is running on port: 3030 
+28.7.2022, 12:49:32 - INFO - Server is running on port: 3030 
+28.7.2022, 12:49:56 - INFO - Server is running on port: 3030 
+28.7.2022, 12:50:07 - INFO - Server is running on port: 3030 
+28.7.2022, 12:50:12 - INFO - Server is running on port: 3030 
+28.7.2022, 12:51:02 - INFO - Server is running on port: 3030 
+28.7.2022, 12:57:06 - INFO - Server is running on port: 3030 
+28.7.2022, 13:00:19 - INFO - Server is running on port: 3030 
+28.7.2022, 13:00:29 - INFO - Server is running on port: 3030 
+28.7.2022, 13:01:26 - INFO - Server is running on port: 3030 
+28.7.2022, 13:02:17 - INFO - Server is running on port: 3030 
+28.7.2022, 13:03:15 - INFO - Server is running on port: 3030 
+28.7.2022, 13:03:45 - ERROR - cannot find stays | {} (sid: VTkl_A0EawWNOFEPp-PWubv-qUffeFE4)
+28.7.2022, 13:03:45 - ERROR - Failed to get stays | {} (sid: VTkl_A0EawWNOFEPp-PWubv-qUffeFE4)
+28.7.2022, 13:04:53 - INFO - Server is running on port: 3030 
+28.7.2022, 13:04:58 - ERROR - cannot find stays | {} (sid: DokBeyQkr3fScgUxL4xite-R80oemX_O)
+28.7.2022, 13:04:58 - ERROR - Failed to get stays | {} (sid: DokBeyQkr3fScgUxL4xite-R80oemX_O)
+28.7.2022, 13:04:58 - ERROR - cannot find stays | {} (sid: 563xLcLs7j-kr3fSI_YQv7eba9vuu1_w)
+28.7.2022, 13:04:58 - ERROR - Failed to get stays | {} (sid: 563xLcLs7j-kr3fSI_YQv7eba9vuu1_w)
+28.7.2022, 13:05:11 - ERROR - cannot find stays | {} (sid: dklYchIAjYZD7G84vs7XfFGJ_8MVHX3p)
+28.7.2022, 13:05:11 - ERROR - Failed to get stays | {} (sid: dklYchIAjYZD7G84vs7XfFGJ_8MVHX3p)
+28.7.2022, 13:05:49 - INFO - Server is running on port: 3030 
+28.7.2022, 13:05:53 - ERROR - cannot find stays | {} (sid: rHFio2cr1-DpeSU46ClKdmrSQ70O-a2t)
+28.7.2022, 13:05:53 - ERROR - Failed to get stays | {} (sid: rHFio2cr1-DpeSU46ClKdmrSQ70O-a2t)
+28.7.2022, 13:06:31 - INFO - Server is running on port: 3030 
+28.7.2022, 13:06:33 - ERROR - cannot find stays | {} (sid: HPKE2VlV42B_JPHHJpCvk18s0N9lpd2m)
+28.7.2022, 13:06:33 - ERROR - Failed to get stays | {} (sid: HPKE2VlV42B_JPHHJpCvk18s0N9lpd2m)
+28.7.2022, 13:06:48 - ERROR - cannot find stays | {} (sid: NMw6vwou4ETuV--A_d5lXAwKEsQ0ckhq)
+28.7.2022, 13:06:48 - ERROR - Failed to get stays | {} (sid: NMw6vwou4ETuV--A_d5lXAwKEsQ0ckhq)
+28.7.2022, 13:07:16 - INFO - Server is running on port: 3030 
+28.7.2022, 13:09:06 - INFO - Server is running on port: 3030 
+28.7.2022, 13:10:19 - INFO - Server is running on port: 3030 
+28.7.2022, 13:12:00 - INFO - Server is running on port: 3030 
+28.7.2022, 13:12:15 - INFO - Server is running on port: 3030 
+28.7.2022, 13:14:21 - INFO - Server is running on port: 3030 
+28.7.2022, 13:16:17 - INFO - Server is running on port: 3030 
+28.7.2022, 13:16:33 - ERROR - cannot find stays | {} (sid: NbbGRq7Mx8zX_amK0tO9658sTCWtOSMX)
+28.7.2022, 13:16:33 - ERROR - Failed to get stays | {} (sid: NbbGRq7Mx8zX_amK0tO9658sTCWtOSMX)
+28.7.2022, 13:17:34 - INFO - Server is running on port: 3030 
+28.7.2022, 13:22:16 - INFO - Server is running on port: 3030 
+28.7.2022, 13:23:17 - INFO - Server is running on port: 3030 
+28.7.2022, 13:26:21 - INFO - Server is running on port: 3030 
+28.7.2022, 13:26:29 - INFO - Server is running on port: 3030 
+28.7.2022, 13:28:33 - INFO - Server is running on port: 3030 
+28.7.2022, 13:29:43 - INFO - Server is running on port: 3030 
+28.7.2022, 13:30:36 - INFO - Server is running on port: 3030 
+28.7.2022, 13:32:57 - INFO - Server is running on port: 3030 
+28.7.2022, 13:33:34 - INFO - Server is running on port: 3030 
+28.7.2022, 13:38:51 - INFO - Server is running on port: 3030 
+28.7.2022, 13:39:09 - ERROR - cannot find stays | {} (sid: ISFoU3DF3imZbH03J2tFsDC1UhePbPic)
+28.7.2022, 13:39:09 - ERROR - Failed to get stays | {} (sid: ISFoU3DF3imZbH03J2tFsDC1UhePbPic)
+28.7.2022, 13:39:43 - INFO - Server is running on port: 3030 
+28.7.2022, 13:42:11 - INFO - Server is running on port: 3030 
+28.7.2022, 13:42:36 - INFO - Server is running on port: 3030 
+28.7.2022, 13:45:55 - INFO - Server is running on port: 3030 
+28.7.2022, 13:47:13 - INFO - Server is running on port: 3030 
+28.7.2022, 13:48:16 - INFO - Server is running on port: 3030 
+28.7.2022, 13:49:41 - INFO - Server is running on port: 3030 
+28.7.2022, 13:50:40 - INFO - Server is running on port: 3030 
+28.7.2022, 13:52:38 - INFO - Server is running on port: 3030 
+28.7.2022, 13:55:40 - INFO - Server is running on port: 3030 
+28.7.2022, 13:55:45 - ERROR - cannot find stays | {} (sid: P66gl1Htkj2DmFnSEYu1DUoVy5GKVWZA)
+28.7.2022, 13:55:45 - ERROR - Failed to get stays | {} (sid: P66gl1Htkj2DmFnSEYu1DUoVy5GKVWZA)
+28.7.2022, 13:56:19 - INFO - Server is running on port: 3030 
+28.7.2022, 13:56:33 - ERROR - cannot find stays | {} (sid: cBWCzXDYpzdT24fAFLGfQEydtbixx17y)
+28.7.2022, 13:56:33 - ERROR - Failed to get stays | {} (sid: cBWCzXDYpzdT24fAFLGfQEydtbixx17y)
+28.7.2022, 13:56:59 - ERROR - cannot find stays | {} (sid: SK3CH8sh_INuGEcD4dE_23LyLPOcRZmJ)
+28.7.2022, 13:56:59 - ERROR - Failed to get stays | {} (sid: SK3CH8sh_INuGEcD4dE_23LyLPOcRZmJ)
+28.7.2022, 13:57:34 - INFO - Server is running on port: 3030 
+28.7.2022, 13:57:38 - ERROR - cannot find stays | {} (sid: ips2_yUvwJiVb9gUVTwyrg07MVOXU0Oc)
+28.7.2022, 13:57:38 - ERROR - Failed to get stays | {} (sid: ips2_yUvwJiVb9gUVTwyrg07MVOXU0Oc)
+28.7.2022, 13:58:32 - INFO - Server is running on port: 3030 
+28.7.2022, 13:58:35 - ERROR - cannot find stays | {} (sid: 7QeJ5vXBRHnBHjAKptkVRVrLr6fKkW-I)
+28.7.2022, 13:58:35 - ERROR - Failed to get stays | {} (sid: 7QeJ5vXBRHnBHjAKptkVRVrLr6fKkW-I)
+28.7.2022, 13:58:54 - INFO - Server is running on port: 3030 
+28.7.2022, 13:59:20 - INFO - Server is running on port: 3030 
+28.7.2022, 13:59:40 - ERROR - Failed to get stays | {} (sid: aqgP9ntVik-Sz4WTTbKz46ZJh_C4hVfl)
+28.7.2022, 14:00:04 - INFO - Server is running on port: 3030 
+28.7.2022, 14:01:37 - INFO - Server is running on port: 3030 
+28.7.2022, 15:26:11 - INFO - Server is running on port: 3030 
+28.7.2022, 16:55:33 - DEBUG - Emiting to user socket: undefined (sid: oDxZxvtlvM6FsmBXErVTyRfTqr33jjHL)
+28.7.2022, 17:09:11 - INFO - Server is running on port: 3030 
+28.7.2022, 17:17:28 - DEBUG - Emiting to user socket: undefined (sid: 5LNavEuoGk7KptbevIp-sQM3oMMz8Ki5)
+28.7.2022, 17:18:13 - DEBUG - Emiting to user socket: undefined (sid: RBIPcgRo-x0sCgDJIqZl-ZNsi36MNCBP)
+28.7.2022, 17:21:04 - DEBUG - Emiting to user socket: undefined (sid: Na55S1qn8-X8m-k3JYQZyqxtK9k6APuz)
+28.7.2022, 17:21:25 - DEBUG - Emiting to user socket: undefined (sid: zcrqIl7bVLIsM-tqqe_lEWVn7IV7El2j)
+28.7.2022, 18:26:11 - INFO - Server is running on port: 3030 
+28.7.2022, 20:11:07 - DEBUG - Emiting to user socket: undefined (sid: RbAIpmkJQRSdJVrBfmxTc-3iLOXkIUMC)
+28.7.2022, 21:40:40 - INFO - Server is running on port: 3030 
+29.7.2022, 0:51:45 - INFO - Server is running on port: 3030 
+29.7.2022, 14:46:13 - DEBUG - Emiting to user socket: undefined (sid: pJDeeqn8iX5JyglYg-OG8lBCkRT0t90z)
+29.7.2022, 14:48:46 - DEBUG - Emiting to user socket: undefined (sid: Gkvm2lWPoY11BD9UCMlLg6ycznbk9bkO)
+29.7.2022, 15:09:19 - DEBUG - Emiting to user socket: undefined (sid: _at83ec85j6xdrtIX3bdzE52m4FJSWrc)
+29.7.2022, 15:21:38 - DEBUG - Emiting to user socket: undefined (sid: N_3y8sJwtNN-Ywq9eKP-0dOpKPQpkqh9)
+29.7.2022, 15:27:48 - DEBUG - Emiting to user socket: undefined (sid: TOzP469v3TVVIcqX-7XCxsg_sm_iPTtA)
+29.7.2022, 15:31:39 - DEBUG - Emiting to user socket: undefined (sid: u7QXDA_AvxvgXZkIQZFOiODyJ3-Ao_7h)
+29.7.2022, 15:46:54 - DEBUG - Emiting to user socket: undefined (sid: exFWQzLaw5KB1lMzn1rT1az819iJEVnc)
+29.7.2022, 15:48:20 - DEBUG - Emiting to user socket: undefined (sid: h27_QTyN4J2IEWjiNY0NDtcRAMRT8wO1)
+29.7.2022, 15:53:01 - DEBUG - Emiting to user socket: undefined (sid: eNOpfuzD6gTGQydXBu5R5q3yFpW9YIYh)
+29.7.2022, 15:54:35 - DEBUG - Emiting to user socket: undefined (sid: FK7ZP_kOhR9xZEsI-E10ibK7Nkae7flj)
+29.7.2022, 15:56:32 - DEBUG - Emiting to user socket: undefined (sid: _HwbZKRmKGY7KbTAKIcnfMatlXBuEvRo)
+29.7.2022, 15:58:24 - DEBUG - Emiting to user socket: undefined (sid: OwfsWwNneDUdS8kHU0eTjOA6xmyqE-GM)
+29.7.2022, 16:00:04 - DEBUG - Emiting to user socket: undefined (sid: 1DskwmyKJmAxDhgYv-oSrCH3lCrnwXZe)
+29.7.2022, 16:00:36 - DEBUG - Emiting to user socket: undefined (sid: 3IeNWi59z0cw-IlsWCOI_uka8fjjU795)
+29.7.2022, 16:03:36 - DEBUG - Emiting to user socket: undefined (sid: NCBh9Grz16Woeox31lGthMywLzLSscjq)
+=======
+28.7.2022, 15:40:42 - INFO - Server is running on port: 3030 
+28.7.2022, 16:04:45 - DEBUG - Emiting to user socket: undefined (sid: CYQwAmoFav4R1V_Sh6SP_AQjYipz-Znz)
+28.7.2022, 16:14:37 - DEBUG - Emiting to user socket: undefined (sid: P2p8SPlvkm1SmeiGUqK_i8NsvKae6Lnt)
+28.7.2022, 16:31:18 - INFO - Server is running on port: 3030 
+28.7.2022, 16:32:46 - INFO - Server is running on port: 3030 
+28.7.2022, 16:33:19 - INFO - Server is running on port: 3030 
+28.7.2022, 16:36:16 - DEBUG - broadcast to all but user:  |  (sid: JW9udriEFy3fYzlQV2BLXDksCPUSH6B8)
+28.7.2022, 16:45:20 - DEBUG - broadcast to all but user:  |  (sid: SI_nXlYe4sgohcTtLynrDoo1JbJ930U_)
+28.7.2022, 16:53:08 - DEBUG - broadcast to all but user:  |  (sid: SJVcq6m6_ig5v-LukfU0yvlP3Uxqs9-v)
+28.7.2022, 17:13:52 - DEBUG - broadcast to all but user:  |  (sid: I9TU3gXR1DOBMgLFLv6_uzTi48BkxR3O)
+28.7.2022, 17:18:57 - DEBUG - broadcast to all but user:  |  (sid: e7YoGzSyCUvQl6AS2qn1MIkYBD_WzCn2)
+28.7.2022, 18:57:49 - DEBUG - broadcast to all but user:  |  (sid: FwtllLN52Yl95XYYPODLU5q3swmIXS4G)
+28.7.2022, 18:59:46 - DEBUG - broadcast to all but user:  |  (sid: fgYxQMcLiG-0KKbKBaYocqDaXWDF4O-Y)
+28.7.2022, 20:23:15 - INFO - Server is running on port: 3030 
+28.7.2022, 20:27:49 - INFO - Server is running on port: 3030 
+28.7.2022, 20:28:03 - INFO - Server is running on port: 3030 
+29.7.2022, 14:04:15 - ERROR - cannot find users | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: J5x11HRie8fGvA-F1yc73yWrk2K_sQyu)
+29.7.2022, 14:04:15 - ERROR - Failed to get users | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: J5x11HRie8fGvA-F1yc73yWrk2K_sQyu)
+29.7.2022, 14:04:15 - ERROR - cannot find stays | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: zYS7b3nWIuahzrbSLXDG_M_istBdYctc)
+29.7.2022, 14:04:15 - ERROR - Failed to get stays | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: zYS7b3nWIuahzrbSLXDG_M_istBdYctc)
+29.7.2022, 14:04:15 - ERROR - cannot find orders | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: O9ifteOLlTrlpHer88sy-wh3XQN5zA3j)
+29.7.2022, 14:04:15 - ERROR - Cannot get orders | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: O9ifteOLlTrlpHer88sy-wh3XQN5zA3j)
+29.7.2022, 14:04:17 - ERROR - cannot find users | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: IHNLu5Mex9Lv42caok48d66jm8SMa1mC)
+29.7.2022, 14:04:17 - ERROR - Failed to get users | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: IHNLu5Mex9Lv42caok48d66jm8SMa1mC)
+29.7.2022, 14:04:17 - ERROR - cannot find stays | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: r30WQGjIPhk2G4dIkq1hhGSOMDbzyPi5)
+29.7.2022, 14:04:17 - ERROR - Failed to get stays | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: r30WQGjIPhk2G4dIkq1hhGSOMDbzyPi5)
+29.7.2022, 14:04:17 - ERROR - cannot find orders | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: fnds5dr2d141G6ymUMMxF6Eikx0VW1fN)
+29.7.2022, 14:04:17 - ERROR - Cannot get orders | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-e0xqma-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff000000000000004b","commonWireVersion":13}} (sid: fnds5dr2d141G6ymUMMxF6Eikx0VW1fN)
+29.7.2022, 15:15:04 - INFO - Server is running on port: 3030 
+29.7.2022, 15:53:52 - INFO - Server is running on port: 3030 
+29.7.2022, 15:54:04 - INFO - Server is running on port: 3030 
+29.7.2022, 15:54:30 - INFO - Server is running on port: 3030 
+29.7.2022, 16:20:17 - INFO - Server is running on port: 3030 
+29.7.2022, 16:23:48 - ERROR - cannot find stays | {} (sid: DIhdQmW5DcZrPq_cCNQoKs46_okRVk3F)
+29.7.2022, 16:23:48 - ERROR - Failed to get stays | {} (sid: DIhdQmW5DcZrPq_cCNQoKs46_okRVk3F)
+29.7.2022, 16:24:17 - ERROR - cannot find stays | {} (sid: ucSgeYnV2KnLGAusNeiqp3MP-1z2yDXT)
+29.7.2022, 16:24:17 - ERROR - Failed to get stays | {} (sid: ucSgeYnV2KnLGAusNeiqp3MP-1z2yDXT)
+29.7.2022, 16:24:18 - ERROR - cannot find stays | {} (sid: cLpDI865K0vJTFwmhUl4Lp3Zzyaz7_6V)
+29.7.2022, 16:24:18 - ERROR - Failed to get stays | {} (sid: cLpDI865K0vJTFwmhUl4Lp3Zzyaz7_6V)
+29.7.2022, 16:25:10 - ERROR - cannot find stays | {} (sid: -NtIA0I4v8RXNCGPI9S7C17FZH2tqAEj)
+29.7.2022, 16:25:11 - ERROR - Failed to get stays | {} (sid: -NtIA0I4v8RXNCGPI9S7C17FZH2tqAEj)
+29.7.2022, 16:25:11 - ERROR - cannot find stays | {} (sid: DUXXhxONyF1Lqkc5MPsdE-T-Bcx2y2wh)
+29.7.2022, 16:25:11 - ERROR - Failed to get stays | {} (sid: DUXXhxONyF1Lqkc5MPsdE-T-Bcx2y2wh)
+29.7.2022, 16:25:24 - ERROR - cannot find stays | {} (sid: eNLdll-UijybhrFBAUU8Xr3tn7j-bIlq)
+29.7.2022, 16:25:24 - ERROR - Failed to get stays | {} (sid: eNLdll-UijybhrFBAUU8Xr3tn7j-bIlq)
+29.7.2022, 16:25:24 - ERROR - cannot find stays | {} (sid: irg_MW7DMElJEC4NHTx3oYvbILR-rPBd)
+29.7.2022, 16:25:24 - ERROR - Failed to get stays | {} (sid: irg_MW7DMElJEC4NHTx3oYvbILR-rPBd)
+29.7.2022, 16:26:54 - ERROR - cannot find stays | {} (sid: ZBgsrs76bIo9SHtDZ8-U08cH7atVSbBL)
+29.7.2022, 16:26:54 - ERROR - Failed to get stays | {} (sid: ZBgsrs76bIo9SHtDZ8-U08cH7atVSbBL)
+29.7.2022, 16:26:54 - ERROR - cannot find stays | {} (sid: XPvBM-SZksp5lUOmtMLgCVNIYquxdu1V)
+29.7.2022, 16:26:54 - ERROR - Failed to get stays | {} (sid: XPvBM-SZksp5lUOmtMLgCVNIYquxdu1V)
+29.7.2022, 16:27:09 - ERROR - cannot find stays | {} (sid: Xcb7SeprzSpcd98-LByJIa8jn1l6g1r2)
+29.7.2022, 16:27:09 - ERROR - Failed to get stays | {} (sid: Xcb7SeprzSpcd98-LByJIa8jn1l6g1r2)
+29.7.2022, 16:27:09 - ERROR - cannot find stays | {} (sid: 2uc2WUdGi3AEjRyST0Aasm0kFobm9R8A)
+29.7.2022, 16:27:09 - ERROR - Failed to get stays | {} (sid: 2uc2WUdGi3AEjRyST0Aasm0kFobm9R8A)
+29.7.2022, 16:27:57 - ERROR - cannot find stays | {} (sid: Xax_lE1rCqqqwecuXAOkJWGvxCzkuoNC)
+29.7.2022, 16:27:57 - ERROR - Failed to get stays | {} (sid: Xax_lE1rCqqqwecuXAOkJWGvxCzkuoNC)
+29.7.2022, 16:27:57 - ERROR - cannot find stays | {} (sid: s5cK0hubYNOH97ijN8Jflb6_t17J8WEu)
+29.7.2022, 16:27:57 - ERROR - Failed to get stays | {} (sid: s5cK0hubYNOH97ijN8Jflb6_t17J8WEu)
+29.7.2022, 16:30:01 - INFO - Server is running on port: 3030 
+29.7.2022, 16:38:51 - INFO - Server is running on port: 3030 
+29.7.2022, 16:43:39 - INFO - Server is running on port: 3030 
+29.7.2022, 16:46:15 - INFO - Server is running on port: 3030 
+29.7.2022, 16:48:29 - INFO - Server is running on port: 3030 
+29.7.2022, 16:49:05 - INFO - Server is running on port: 3030 
+29.7.2022, 16:50:54 - INFO - Server is running on port: 3030 
+29.7.2022, 16:51:13 - INFO - Server is running on port: 3030 
+29.7.2022, 16:52:41 - INFO - Server is running on port: 3030 
+29.7.2022, 16:53:38 - INFO - Server is running on port: 3030 
+29.7.2022, 16:53:52 - INFO - Server is running on port: 3030 
+29.7.2022, 16:54:23 - INFO - Server is running on port: 3030 
+29.7.2022, 16:55:00 - INFO - Server is running on port: 3030 
+29.7.2022, 16:56:34 - INFO - Server is running on port: 3030 
+29.7.2022, 16:56:42 - INFO - Server is running on port: 3030 
+29.7.2022, 17:01:01 - INFO - Server is running on port: 3030 
+29.7.2022, 17:03:10 - INFO - Server is running on port: 3030 
+29.7.2022, 17:03:37 - INFO - Server is running on port: 3030 
+29.7.2022, 17:03:56 - INFO - Server is running on port: 3030 
+29.7.2022, 17:05:07 - INFO - Server is running on port: 3030 
+29.7.2022, 17:05:37 - INFO - Server is running on port: 3030 
+29.7.2022, 17:05:47 - ERROR - cannot find stays | {} (sid: wMbbsVkPcfH3WzsMCkKIeB4SluaNXhpj)
+29.7.2022, 17:05:47 - ERROR - Failed to get stays | {} (sid: wMbbsVkPcfH3WzsMCkKIeB4SluaNXhpj)
+29.7.2022, 17:06:14 - INFO - Server is running on port: 3030 
+29.7.2022, 17:07:22 - INFO - Server is running on port: 3030 
+29.7.2022, 17:10:20 - INFO - Server is running on port: 3030 
+29.7.2022, 17:13:55 - INFO - Server is running on port: 3030 
+29.7.2022, 17:21:38 - INFO - Server is running on port: 3030 
+29.7.2022, 17:22:24 - INFO - Server is running on port: 3030 
+29.7.2022, 17:22:56 - INFO - Server is running on port: 3030 
+29.7.2022, 17:23:04 - INFO - Server is running on port: 3030 
+29.7.2022, 17:23:52 - INFO - Server is running on port: 3030 
+29.7.2022, 17:25:57 - INFO - Server is running on port: 3030 
+29.7.2022, 17:51:13 - INFO - Server is running on port: 3030 
+29.7.2022, 17:58:25 - INFO - Server is running on port: 3030 
+29.7.2022, 18:08:55 - INFO - Server is running on port: 3030 
+29.7.2022, 19:06:27 - INFO - Server is running on port: 3030 
+29.7.2022, 19:14:25 - INFO - Server is running on port: 3030 
+29.7.2022, 19:15:59 - INFO - Server is running on port: 3030 
+30.7.2022, 0:27:31 - DEBUG - broadcast to all but user:  |  (sid: BCy_NaE3r-HYL06cIGUFiaOBchq65iyu)
+30.7.2022, 0:28:07 - DEBUG - broadcast to all but user:  |  (sid: PsvMVWyoAD-iEcmL8HJEhLEPgMbKJftc)
+30.7.2022, 0:30:02 - DEBUG - broadcast to all but user:  |  (sid: hEu_3lXqTtYu-MLixDQQJOoDcpE6Cj03)
+30.7.2022, 0:32:41 - INFO - Server is running on port: 3030 
+30.7.2022, 0:34:33 - INFO - Server is running on port: 3030 
+30.7.2022, 0:34:45 - INFO - Server is running on port: 3030 
+30.7.2022, 1:09:41 - INFO - Server is running on port: 3030 
+30.7.2022, 1:09:57 - ERROR - Failed to add order | {} (sid: kY8zPFJuR6ODkaVflmZvze1JcTVE98n2)
+30.7.2022, 1:10:40 - INFO - Server is running on port: 3030 
+30.7.2022, 1:12:05 - INFO - Server is running on port: 3030 
+30.7.2022, 2:18:11 - INFO - Server is running on port: 3030 
+30.7.2022, 2:24:24 - INFO - Server is running on port: 3030 
+30.7.2022, 2:25:22 - DEBUG - Setting (InvxONqHH3qACixyAAAF) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:32:14 - INFO - Server is running on port: 3030 
+30.7.2022, 2:34:04 - INFO - Server is running on port: 3030 
+30.7.2022, 2:35:03 - DEBUG - Setting (jMnH2L94_3-OSB5GAAAC) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:35:11 - ERROR - Failed to add order | {} (sid: XTDEp2qROceF0MDxw9hn_xntLXQyKklI)
+30.7.2022, 2:39:55 - DEBUG - Setting (jMnH2L94_3-OSB5GAAAC) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:41:33 - DEBUG - Setting (B7L9gSvOdMSxPoWBAAAJ) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:41:38 - ERROR - Failed to add order | {} (sid: ee30jfROfPwA_kYs2NqN1pjLbGT-KMjK)
+30.7.2022, 2:44:37 - ERROR - Failed to add order | {} (sid: XayXxKGwGBfMIOsCcmxYuOi66VBUrnEl)
+30.7.2022, 2:45:00 - DEBUG - Setting (hJdS7MzK7fDkvxBOAAAN) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:45:11 - ERROR - Failed to add order | {} (sid: OlGXREqIA0RK2nlODSYpg_IJvLDCsNMT)
+30.7.2022, 2:47:16 - DEBUG - Setting (hJdS7MzK7fDkvxBOAAAN) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:47:34 - ERROR - Failed to add order | {} (sid: SLeJKrILAvyiCZtpJ1ME_XVllPBYi8vU)
+30.7.2022, 2:50:07 - DEBUG - Setting (fmfc4OtnIYabdeolAAAT) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:50:47 - ERROR - Failed to add order | {} (sid: yU0yMdmB1yVPICnVrrrVC9EoFzboChaG)
+30.7.2022, 2:52:23 - DEBUG - Setting (QsTCoUUxzmz8y1x8AAAX) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:52:44 - DEBUG - Setting (VBWAAHlC_LHLMP9aAAAa) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:52:54 - ERROR - Failed to add order | {} (sid: Jne9HHVkN81sq-1rUwRIAiFpA1i4_XjW)
+30.7.2022, 2:54:58 - INFO - Server is running on port: 3030 
+30.7.2022, 2:55:10 - DEBUG - Setting (XTD9llSgHVRjyhiAAAAF) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 2:55:39 - INFO - Server is running on port: 3030 
+30.7.2022, 2:55:53 - ERROR - Failed to add order | {} (sid: HlDMwSNyXDr_V0WAElvZWRl5Ok28iOZt)
+30.7.2022, 2:57:54 - INFO - Server is running on port: 3030 
+30.7.2022, 2:58:38 - DEBUG - Setting (NWzUFRov__QekXcNAAAF) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 3:16:54 - DEBUG - Setting (Bd-H8dFToeR1r_44AAAX) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 3:28:29 - DEBUG - Setting (_yztT31-Xq6ARz16AAAf) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 3:39:21 - INFO - Server is running on port: 3030 
+30.7.2022, 3:41:00 - DEBUG - Setting (qZ0W20MnP6jAY4UwAAAB) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 3:46:55 - DEBUG - Setting (tZjL32jbGzcpIlsTAAAL) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 3:50:30 - DEBUG - Setting (7sNywIdmPVq3o65WAAAN) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 12:24:49 - DEBUG - Setting (AYM1t5yjfmzhSgUyAAAR) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:00:48 - DEBUG - Setting (7rj6vK2XOHenYoMJAAAg) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:01:19 - DEBUG - Setting (I_MP6icgn9ClyHA7AAAj) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:05:10 - DEBUG - Setting (XvgrjySWdvPtJo_RAAAl) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:05:28 - DEBUG - Setting (AYZY9OimQC3b4ePkAAAn) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:06:05 - DEBUG - Setting (Xfs9echPvmZJUQiWAAAp) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:07:42 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:08:01 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:08:30 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:08:47 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:08:55 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:09:02 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:12:31 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:14:30 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:15:23 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:16:13 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:17:02 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:17:14 - DEBUG - Setting (Gh59k2zx-HRL9uO0AAAr) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:18:15 - DEBUG - Setting (pmqOl9IiB12sB5hrAAAt) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:18:41 - DEBUG - Setting (pmqOl9IiB12sB5hrAAAt) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:19:54 - DEBUG - Setting (pmqOl9IiB12sB5hrAAAt) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:21:07 - DEBUG - Setting (dYUNBMpUedzM0s0rAAAv) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:21:14 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:21:39 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:22:34 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:23:29 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:23:57 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:24:24 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:25:22 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:25:56 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:26:56 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:27:59 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:29:14 - DEBUG - Setting (AP1Yr0uZe0XrZqVmAAAx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:29:52 - DEBUG - Setting (SdfWli4dhyk20SLLAAAz) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:30:05 - DEBUG - Setting (SdfWli4dhyk20SLLAAAz) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:31:00 - DEBUG - Setting (SdfWli4dhyk20SLLAAAz) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:32:05 - DEBUG - Setting (OFBwvfvT-nW8SGmUAAA1) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 15:41:14 - DEBUG - Setting (f3157Yn5iNMZogZZAAA3) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 16:23:01 - DEBUG - Setting (xVO_L0PKCCZdrH64AABD) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 16:52:50 - DEBUG - Setting (m_Is7eigYHWtfORSAABf) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 16:59:51 - DEBUG - Setting (m_Is7eigYHWtfORSAABf) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 17:01:16 - DEBUG - Setting (8AYCHz5RfpSxCrKzAABp) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 17:04:12 - DEBUG - Setting (b7TlqaAW7OSeyLYMAABx) socket.userId = 62e0e9e2dd13b00af4e80285 
+30.7.2022, 17:10:50 - INFO - Server is running on port: 3030 
+30.7.2022, 17:22:09 - DEBUG - Setting (OhCSHWPUoLLOsF8UAAAL) socket.userId = null 
+30.7.2022, 17:24:10 - DEBUG - Setting (kqCdm7RP443Q2ybuAAAR) socket.userId = null 
+30.7.2022, 17:45:09 - DEBUG - Setting (7jVP3tHofY_TJdYpAAAV) socket.userId = null 
+30.7.2022, 17:46:05 - DEBUG - Setting (ij8JR7pMPBMZwFF2AAAZ) socket.userId = null 
+30.7.2022, 18:05:47 - DEBUG - Setting (IO55TQeQOvn4YUBBAAAn) socket.userId = null 
+30.7.2022, 18:06:15 - DEBUG - Setting (AG7qF_Viyz2kD-vAAAAp) socket.userId = null 
+30.7.2022, 18:10:52 - DEBUG - Setting (pCOB1TdfYK7fFBe_AAAx) socket.userId = null 
+30.7.2022, 18:10:59 - DEBUG - Setting (1_3SPz-OgsxWPxzNAAAw) socket.userId = null 
+30.7.2022, 18:12:03 - DEBUG - Setting (_ISZcKDrja_bKqKsAAAz) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:12:03 - DEBUG - Setting (pCOB1TdfYK7fFBe_AAAx) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:12:16 - DEBUG - Setting (pCOB1TdfYK7fFBe_AAAx) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:12:16 - DEBUG - Setting (_ISZcKDrja_bKqKsAAAz) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:12:18 - DEBUG - Setting (_ISZcKDrja_bKqKsAAAz) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:14:38 - DEBUG - Setting (RT7lctVWjDhp90x-AABD) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:14:58 - DEBUG - Setting (eIFzgyio3smrd3aRAABG) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:15:09 - DEBUG - Setting (ZtrDNYAbIMxGYn16AABH) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:15:49 - DEBUG - Setting (S0xNduEX8PwXpAGmAABJ) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:21:27 - DEBUG - Setting (LHG02yRk329FVrf7AABP) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:21:29 - DEBUG - Setting (syX3jux3oaTJNSLPAABN) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:22:43 - DEBUG - Setting (JcSvJ-9KkjEIURxjAABS) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:22:50 - DEBUG - Setting (NhmZkxZaeFUnuW92AABT) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:24:02 - DEBUG - Setting (LKEKj10WrD3s7mUxAABV) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:28:26 - DEBUG - Setting (LdpX2Cde1e_ulzw6AABX) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:28:39 - DEBUG - Setting (5Vm5tEhcTFoszuiGAABZ) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:40:13 - DEBUG - Setting (zpzmdDe3jIMCn1OKAABd) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:40:13 - DEBUG - Setting (doPINA0BBpIb3aBMAABb) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:41:19 - DEBUG - Setting (BYXmUgHHipZzMLdbAABj) socket.userId = 62e0e9b1dd13b00af4e80283 
+30.7.2022, 18:41:27 - DEBUG - Setting (OpT3QP0zSoGAI2rVAABi) socket.userId = 62e0e9b1dd13b00af4e80283 
+30.7.2022, 18:43:51 - DEBUG - Setting (OHcNI6cGCOoGHrcAAABl) socket.userId = 62e0e9b1dd13b00af4e80283 
+30.7.2022, 18:44:49 - DEBUG - Setting (8ZGaeblYIhq1CXZFAABn) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:44:55 - DEBUG - Setting (EurrZoNlzoNpnwj2AABp) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:49:39 - DEBUG - Setting (iWx7TPUGtsCF6Bu3AABr) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:52:28 - DEBUG - Setting (VVH4C2oN0j-nK1wXAABu) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:52:33 - DEBUG - Setting (vm4qszNI-RkKvXpIAABv) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:53:16 - DEBUG - Setting (huJp9SJShej092haAABy) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:53:19 - DEBUG - Setting (pan-Cs_rGXRnEAd8AABz) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:55:11 - DEBUG - Setting (pan-Cs_rGXRnEAd8AABz) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:55:11 - DEBUG - Setting (huJp9SJShej092haAABy) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:57:40 - DEBUG - Setting (54nGLrE0T2-us6xBAAB1) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 18:58:29 - DEBUG - Setting (pan-Cs_rGXRnEAd8AABz) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 19:10:06 - INFO - Server is running on port: 3030 
+30.7.2022, 19:14:37 - DEBUG - Setting (TP9DRJH0-9ZSZQmUAAAD) socket.userId = 62e5332edd13b00af4e802da 
+30.7.2022, 19:33:20 - INFO - Server is running on port: 3030 
+30.7.2022, 19:35:28 - INFO - Server is running on port: 3030 
+30.7.2022, 19:37:04 - INFO - Server is running on port: 3030 
+30.7.2022, 19:59:25 - ERROR - Failed to add order | {} (sid: SEZVig95BcnDb8xsprEiVgES-ULWXfik)
+30.7.2022, 20:00:56 - ERROR - Failed to add order | {} (sid: 9xp1jLTHYUnIuhvH1tV_DOQ92NmrvMgT)
+30.7.2022, 20:28:54 - ERROR - Failed to add order | {} (sid: rdd2crl9Jkke39XPl_0ZjVFpupjNCf9i)
+30.7.2022, 20:30:44 - ERROR - Failed to add order | {} (sid: SEZVig95BcnDb8xsprEiVgES-ULWXfik)
+30.7.2022, 20:31:42 - ERROR - Failed to add order | {} (sid: 3cELMC7uQnBb2MPOSgzIRQbf__xC-wJS)
+30.7.2022, 21:01:51 - INFO - Server is running on port: 3030 
+
+>>>>>>> d69de601367e8c0139c62124d58f5e7d402f31c9
+7/31/2022, 2:08:07 PM - INFO - Server is running on port: 3030 
+7/31/2022, 2:08:23 PM - INFO - Server is running on port: 3030 
