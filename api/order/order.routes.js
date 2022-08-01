@@ -16,7 +16,7 @@ const router = express.Router()
 
 router.get('/', log, getOrders)
 router.post('/', log, addOrder)
-router.put('/:id', log, updateOrder)
+router.put('/:id?', log, updateOrder)
 router.get('/:id', log, getOrder)
 // router.get('/', log, requireAuth, getOrders)
 // router.post('/', log, requireAuth, addOrder)
