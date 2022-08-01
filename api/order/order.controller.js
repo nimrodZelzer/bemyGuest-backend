@@ -4,7 +4,7 @@ const socketService = require("../../services/socket.service")
 const orderService = require("./order.service")
 
 async function getOrders(req, res) {
-  console.log("order id line 7:", req.body)
+  // console.log("order id line 7:", req.body)
   try {
     const orders = await orderService.query(req.query)
     res.send(orders)
@@ -33,7 +33,7 @@ async function addOrder(req, res) {
     // prepare the updated review for sending out
     // order.toUserId = await userService.getById(order.host._id)
 
-    console.log("CTRL SessionId:", req.sessionID)
+    // console.log("CTRL SessionId:", req.sessionID)
     socketService.on({
       type: "order-added",
       data: order,
@@ -55,7 +55,9 @@ async function addOrder(req, res) {
 async function updateOrder(req, res) {
   try {
     var order = req.body
+    console.timeLog(order,'orderrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr')
     const userId = order.guestsDetails.guestId
+    console.log(userId,'i')
     order = await orderService.updateOrder(order)
     socketService.emitToUser({
       type: "order-updated",
