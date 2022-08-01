@@ -1219,3 +1219,4 @@
 01/08/2022, 12:51:23 - ERROR - cannot find stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 01/08/2022, 12:51:23 - ERROR - Failed to get stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 >>>>>>> cc65ccd3e64cdfa851d9d5400918adcec8c3e866
+1.8.2022, 16:00:20 - INFO - Server is running on port: 3030 
