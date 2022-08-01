@@ -21,6 +21,7 @@ async function query(filterBy = {}) {
     }
 
 
+
     return newStays
 
     // if (!filterBy.txt) return stays
