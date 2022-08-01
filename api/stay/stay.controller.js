@@ -8,11 +8,12 @@ const { dbURL } = require("../../config/prod.js")
 async function getStays(req, res) {
   try {
     var queryParams = req.query
-    // console.log("queryParamsssssssssssssss: ", queryParams)
+    console.log("queryParamsssssssssssssss: ", queryParams)
     const stays = await stayService.query(queryParams)
-    // console.log(stays)
+    console.log(stays, "in controller")
     res.json(stays)
   } catch (err) {
+    console.log("queryParamsssssssssssssss: ", queryParams)
     logger.error("Failed to get stays", err)
     res.status(500).send({ err: "Failed to get stays" })
   }

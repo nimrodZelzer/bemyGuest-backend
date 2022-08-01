@@ -2,28 +2,38 @@ const dbService = require("../../services/db.service")
 const logger = require("../../services/logger.service")
 const ObjectId = require("mongodb").ObjectId
 
-async function query(filterBy = {}) {
+async function query(filterBy = null) {
   try {
     const collection = await dbService.getCollection("stay")
     var stays = await collection.find().toArray()
-
-    if (!filterBy.txt && !filterBy.price) return stays
+    console.log(stays, "newStayssssssssssssssssssss", filterBy)
+    if (!filterBy || filterBy === {}) return stays
     var newStays = stays
-
-    if (filterBy.txt) {
-      newStays = stays.filter((stay) => filterBy.txt.includes(stay.loc.country))
-    }
-    if (filterBy.price) {
-      newStays = stays.filter(
-        (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
+    console.log(newStays, "new")
+    // return stays
+    // if (filterBy.txt) {
+    //   console.log("txt")
+    //   newStays = newStays.filter((stay) =>
+    //     filterBy.txt.toLowerCase().includes(stay.loc.country.toLowerCase()))
+    // }
+    // if (filterBy.price.min || filterBy.price.max) {
+    //   console.log("price")
+    //   newStays = newStays.filter(
+    //     (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
+    //   )
+    // }
+    if (filterBy.label) {
+      console.log("label")
+      newStays = newStays.filter(
+        (stay) => stay.labels[0] === filterBy.label
       )
     }
+    console.log(newStays, "stays to return")
 
-    console.log(newStays, "newStayssssssssssssssssssss")
-
+    console.log("filters", filterBy.label, filterBy.price, filterBy.txt)
     return newStays
 
-    // if (!filterBy.txt) return stays
+    return stays
   } catch (err) {
     logger.error("cannot find stays", err)
     throw err
