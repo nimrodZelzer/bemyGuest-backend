@@ -1,3 +1,38 @@
+<<<<<<< HEAD
+1.8.2022, 13:10:07 - ERROR - Failed to add order | {} (sid: cG5H2E2xxw23fjKMQT-P4uDkXAYSxOSa)
+1.8.2022, 13:10:23 - DEBUG - Emiting to user socket: 62e0e9e2dd13b00af4e80285 (sid: MRlvR1T3LWu4UhVDKgrxBuq-oNYGqt-l)
+1.8.2022, 13:10:26 - DEBUG - Emiting to user socket: 62e0e9e2dd13b00af4e80285 (sid: tEvuUD8XJiTFJ9JtcVEskLOCdtji19yI)
+1.8.2022, 13:10:28 - DEBUG - Emiting to user socket: 62e0ea13dd13b00af4e80287 (sid: qLkXbFhqKKi58V9r0DFC8e8Pxt_3ZXHa)
+1.8.2022, 13:14:50 - DEBUG - Emiting to user socket: 62e0ea13dd13b00af4e80287 (sid: xQ1Z08CJm0dyLQhFhznFk2hATupHoqKH)
+1.8.2022, 13:15:18 - DEBUG - Emiting to user socket: 62e0ea13dd13b00af4e80287 (sid: wzpiedTj0uZJF-nTxoVOHXtHEJGgTD3k)
+1.8.2022, 13:16:32 - DEBUG - Emiting to user socket: 62e0ea13dd13b00af4e80287 (sid: oYpdHJaSTAG9oyiAQIToZmO8xXb9MbXp)
+1.8.2022, 13:16:50 - DEBUG - Emiting to user socket: 62e0ea13dd13b00af4e80287 (sid: nt1y7L12lj6PQYM5lgouDOru_HLx73P1)
+1.8.2022, 13:16:52 - DEBUG - Emiting to user socket: 62e0e9e2dd13b00af4e80285 (sid: 6c6K5gKVcuES50bOETuBypR3eGI4Jyjn)
+1.8.2022, 13:36:49 - ERROR - Failed to add order | {} (sid: B9TQi4AFElrYexCTbejSpDMEW7pT5hBL)
+1.8.2022, 13:38:06 - DEBUG - Emiting to user socket: 62e0ea13dd13b00af4e80287 (sid: -UMwDHHIltbxVBFHn1xrAW9-UDLaN8h8)
+1.8.2022, 13:40:52 - ERROR - Failed to add order | {} (sid: l7kpaB3_l1Zr9b51zjTXbDhzzw6HrAqD)
+1.8.2022, 13:41:13 - ERROR - Failed to add order | {} (sid: 3L1K83LlZbwa1yS016zb7-O08z610Hp-)
+1.8.2022, 13:46:59 - ERROR - Failed to add order | {} (sid: kfbv5_V20CIM5Z-5a_H8DcJcI7RgdH_-)
+1.8.2022, 13:50:35 - ERROR - Failed to add order | {} (sid: 54mnF-79j3Hj2OQvXJGTJ8l6fpdJDbvp)
+1.8.2022, 13:52:05 - ERROR - Failed to add order | {} (sid: -0oJPuzdr9cN5Bxgf4n_gzFQOhkOn0LX)
+1.8.2022, 13:56:56 - ERROR - Failed to add order | {} (sid: 6ojWxtGXVoS65SWsbPZ_SNcxheJsXx63)
+1.8.2022, 13:57:39 - ERROR - Failed to add order | {} (sid: GMoIR_NpqMrL3UdFbyEvvU4bJv0HBSmx)
+1.8.2022, 14:05:20 - ERROR - Failed to add order | {} (sid: 0G18ellaJMpYYIxQ6Hww1BFpJ7MfS-BB)
+1.8.2022, 14:11:23 - ERROR - Failed to add order | {} (sid: 77nHSl7293RZsf2EPqAU9E3lpd2tlf3h)
+1.8.2022, 14:11:46 - DEBUG - Emiting to user socket: 62e5332edd13b00af4e802da (sid: qTRXhni35XLnxWa7jlWH2DajPWM0do0f)
+1.8.2022, 14:12:32 - DEBUG - Emiting to user socket: 62e5332edd13b00af4e802da (sid: TN4JcCDu7w3SzMYI-4MaZ0G7FHm-F4_D)
+1.8.2022, 14:24:05 - ERROR - Failed to add order | {} (sid: GiuKnQXxQjFNy32V55uBQxsE6hFO6dVA)
+1.8.2022, 15:08:20 - INFO - Server is running on port: 3030 
+1.8.2022, 15:10:31 - ERROR - Failed to add order | {} (sid: tE3V7NG-zGpfLytwHQU7e6ND6C4E1GiI)
+1.8.2022, 15:10:57 - DEBUG - Emiting to user socket: 62e5332edd13b00af4e802da (sid: WsLyXGJIOedJ9S-NyulV2bybMWvDfYBF)
+1.8.2022, 15:12:16 - ERROR - Failed to add order | {} (sid: aC6h-RydLlEzaaIjdgwVJWSjSI7MazuU)
+1.8.2022, 15:14:06 - INFO - Server is running on port: 3030 
+1.8.2022, 15:14:09 - INFO - Server is running on port: 3030 
+1.8.2022, 15:14:16 - INFO - Server is running on port: 3030 
+1.8.2022, 15:14:26 - INFO - Server is running on port: 3030 
+1.8.2022, 15:14:34 - INFO - Server is running on port: 3030 
+1.8.2022, 15:16:12 - ERROR - Failed to add order | {} (sid: HfN7PnwjJggFlq0bgzGzXADzi8e7qsf6)
+=======
 
 25.7.2022, 14:46:56 - INFO - Server is running on port: 3030 
 25.7.2022, 14:51:17 - INFO - Server is running on port: 3030 
@@ -1183,6 +1218,7 @@
 01/08/2022, 12:45:42 - ERROR - Failed to get stays | {} (sid: PjngxbfwxJkXmCuFRlA9hkei74WTzuUa)
 01/08/2022, 12:51:23 - ERROR - cannot find stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 01/08/2022, 12:51:23 - ERROR - Failed to get stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
+<<<<<<< HEAD
 8/1/2022, 6:32:58 PM - ERROR - cannot find stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
 8/1/2022, 6:32:58 PM - ERROR - Failed to get stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
 8/1/2022, 6:36:17 PM - INFO - Server is running on port: 3030 
@@ -1192,3 +1228,7 @@
 8/1/2022, 6:38:20 PM - INFO - Server is running on port: 3030 
 8/1/2022, 6:38:26 PM - ERROR - cannot find stays | {} (sid: Ht-WR__Ox36J70YB8ZzgIhXQaEerPCjT)
 8/1/2022, 6:38:26 PM - ERROR - Failed to get stays | {} (sid: Ht-WR__Ox36J70YB8ZzgIhXQaEerPCjT)
+=======
+>>>>>>> cc65ccd3e64cdfa851d9d5400918adcec8c3e866
+1.8.2022, 16:00:20 - INFO - Server is running on port: 3030 
+>>>>>>> 16d6931e8e9f78d9e04d89197d149e016cf852af

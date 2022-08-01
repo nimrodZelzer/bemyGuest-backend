@@ -120,7 +120,6 @@ async function remove(orderId) {
 
 async function updateOrder(order) {
   try {
-    console.log(req.body, "bodyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy", order)
     const orderToSave = order
     orderToSave._id = ObjectId(order._id)
     const collection = await dbService.getCollection("order")
