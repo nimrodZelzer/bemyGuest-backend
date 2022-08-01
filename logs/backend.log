@@ -1183,3 +1183,12 @@
 01/08/2022, 12:45:42 - ERROR - Failed to get stays | {} (sid: PjngxbfwxJkXmCuFRlA9hkei74WTzuUa)
 01/08/2022, 12:51:23 - ERROR - cannot find stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 01/08/2022, 12:51:23 - ERROR - Failed to get stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
+8/1/2022, 6:32:58 PM - ERROR - cannot find stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
+8/1/2022, 6:32:58 PM - ERROR - Failed to get stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
+8/1/2022, 6:36:17 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:36:22 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:36:35 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:36:56 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:38:20 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:38:26 PM - ERROR - cannot find stays | {} (sid: Ht-WR__Ox36J70YB8ZzgIhXQaEerPCjT)
+8/1/2022, 6:38:26 PM - ERROR - Failed to get stays | {} (sid: Ht-WR__Ox36J70YB8ZzgIhXQaEerPCjT)
