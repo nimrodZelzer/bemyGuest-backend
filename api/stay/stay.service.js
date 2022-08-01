@@ -11,17 +11,17 @@ async function query(filterBy = null) {
     var newStays = stays
     console.log(newStays, "new")
     // return stays
-    // if (filterBy.txt) {
-    //   console.log("txt")
-    //   newStays = newStays.filter((stay) =>
-    //     filterBy.txt.toLowerCase().includes(stay.loc.country.toLowerCase()))
-    // }
-    // if (filterBy.price.min || filterBy.price.max) {
-    //   console.log("price")
-    //   newStays = newStays.filter(
-    //     (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
-    //   )
-    // }
+    if (filterBy.txt) {
+      console.log("txt")
+      newStays = newStays.filter((stay) =>
+        filterBy.txt.toLowerCase().includes(stay.loc.country.toLowerCase()))
+    }
+    if (filterBy.price.min || filterBy.price.max) {
+      console.log("price")
+      newStays = newStays.filter(
+        (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
+      )
+    }
     if (filterBy.label) {
       console.log("label")
       newStays = newStays.filter(

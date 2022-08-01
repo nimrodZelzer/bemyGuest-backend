@@ -1156,3 +1156,11 @@
 01/08/2022, 8:54:07 - INFO - Server is running on port: 3030 
 01/08/2022, 8:58:41 - ERROR - Failed to add order | {} (sid: ZFfjuRQY4g24g4PM6QRfrXnANhUZAqtw)
 01/08/2022, 11:15:49 - ERROR - Failed to add order | {} (sid: 0sE2d4tT-E3LiduCcVCf3au8V3lzLDxy)
+01/08/2022, 12:21:04 - INFO - Server is running on port: 3030 
+01/08/2022, 12:24:28 - INFO - Server is running on port: 3030 
+01/08/2022, 12:24:36 - ERROR - cannot find stays | {} (sid: Iwjdevimqx-V1xp-NQZKA8q7VexPvs5l)
+01/08/2022, 12:24:36 - ERROR - Failed to get stays | {} (sid: Iwjdevimqx-V1xp-NQZKA8q7VexPvs5l)
+01/08/2022, 12:25:28 - ERROR - cannot find stays | {} (sid: UisuU5OdEYLSsPIWiqrEeD-6M53A5Pew)
+01/08/2022, 12:25:28 - ERROR - Failed to get stays | {} (sid: UisuU5OdEYLSsPIWiqrEeD-6M53A5Pew)
+01/08/2022, 12:28:55 - ERROR - cannot find stays | {} (sid: IDxKbC9oGpDwpe2L8_pQwMmGrv1tLlHo)
+01/08/2022, 12:28:55 - ERROR - Failed to get stays | {} (sid: IDxKbC9oGpDwpe2L8_pQwMmGrv1tLlHo)
