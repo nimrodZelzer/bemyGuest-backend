@@ -5,7 +5,7 @@ const expressSession = require("express-session")
 
 const app = express()
 const http = require("http").createServer(app)
-app.use(express.static('public'));
+app.use(express.static("public"))
 
 const session = expressSession({
   secret: "coding is amazing",
@@ -55,7 +55,6 @@ connectSockets(http, session)
 // Make every server-side-route to match the index.html
 // so when requesting http://localhost:3030/index.html/toy/123 it will still respond with
 // our SPA (single page app) (the index.html file) and allow vue-router to take it from there
-
 
 const logger = require("./services/logger.service")
 const port = process.env.PORT || 3030
