@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8b9c9ea48b094f902664ab9a08bdbfaaba643002
 1.8.2022, 13:10:07 - ERROR - Failed to add order | {} (sid: cG5H2E2xxw23fjKMQT-P4uDkXAYSxOSa)
 1.8.2022, 13:10:23 - DEBUG - Emiting to user socket: 62e0e9e2dd13b00af4e80285 (sid: MRlvR1T3LWu4UhVDKgrxBuq-oNYGqt-l)
 1.8.2022, 13:10:26 - DEBUG - Emiting to user socket: 62e0e9e2dd13b00af4e80285 (sid: tEvuUD8XJiTFJ9JtcVEskLOCdtji19yI)
@@ -22,6 +25,9 @@
 1.8.2022, 14:11:46 - DEBUG - Emiting to user socket: 62e5332edd13b00af4e802da (sid: qTRXhni35XLnxWa7jlWH2DajPWM0do0f)
 1.8.2022, 14:12:32 - DEBUG - Emiting to user socket: 62e5332edd13b00af4e802da (sid: TN4JcCDu7w3SzMYI-4MaZ0G7FHm-F4_D)
 1.8.2022, 14:24:05 - ERROR - Failed to add order | {} (sid: GiuKnQXxQjFNy32V55uBQxsE6hFO6dVA)
+<<<<<<< HEAD
+01/08/2022, 18:36:49 - INFO - Server is running on port: 3030 
+=======
 1.8.2022, 15:08:20 - INFO - Server is running on port: 3030 
 1.8.2022, 15:10:31 - ERROR - Failed to add order | {} (sid: tE3V7NG-zGpfLytwHQU7e6ND6C4E1GiI)
 1.8.2022, 15:10:57 - DEBUG - Emiting to user socket: 62e5332edd13b00af4e802da (sid: WsLyXGJIOedJ9S-NyulV2bybMWvDfYBF)
@@ -1219,6 +1225,11 @@
 01/08/2022, 12:51:23 - ERROR - cannot find stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 01/08/2022, 12:51:23 - ERROR - Failed to get stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 <<<<<<< HEAD
+1.8.2022, 16:00:20 - INFO - Server is running on port: 3030 
+1.8.2022, 18:31:41 - INFO - Server is running on port: 3030 
+1.8.2022, 18:37:05 - ERROR - Failed to add order | {} (sid: Y3kLSIj49I_PULIA7mkNRyO5H-nGY8lp)
+=======
+<<<<<<< HEAD
 8/1/2022, 6:32:58 PM - ERROR - cannot find stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
 8/1/2022, 6:32:58 PM - ERROR - Failed to get stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
 8/1/2022, 6:36:17 PM - INFO - Server is running on port: 3030 
@@ -1234,3 +1245,5 @@
 >>>>>>> 16d6931e8e9f78d9e04d89197d149e016cf852af
 8/1/2022, 6:41:24 PM - INFO - Server is running on port: 3030 
 8/1/2022, 6:41:59 PM - ERROR - Failed to add order | {} (sid: 7zW5PtsxejmOaqy62n1DsiqwwF_kojYT)
+>>>>>>> 6483acf676ee7f1a3fc8a192e0f2f940e1ca2113
+>>>>>>> 8b9c9ea48b094f902664ab9a08bdbfaaba643002
