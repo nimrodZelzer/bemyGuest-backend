@@ -15,13 +15,11 @@ async function query(filterBy = {}) {
     }
 
     if (filterBy.price) {
-      console.log(filterBy.max, "filterrrrrrrrrrrrrrrrrrrrrrrrr")
       newStays = stays.filter(
         (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
       )
     }
 
-    console.log(newStays, "newStayssssssssssssssssssss")
 
     return newStays
 
