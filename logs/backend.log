@@ -1220,3 +1220,5 @@
 01/08/2022, 12:51:23 - ERROR - Failed to get stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 >>>>>>> cc65ccd3e64cdfa851d9d5400918adcec8c3e866
 1.8.2022, 16:00:20 - INFO - Server is running on port: 3030 
+1.8.2022, 18:31:41 - INFO - Server is running on port: 3030 
+1.8.2022, 18:37:05 - ERROR - Failed to add order | {} (sid: Y3kLSIj49I_PULIA7mkNRyO5H-nGY8lp)
