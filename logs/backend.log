@@ -1218,6 +1218,25 @@
 01/08/2022, 12:45:42 - ERROR - Failed to get stays | {} (sid: PjngxbfwxJkXmCuFRlA9hkei74WTzuUa)
 01/08/2022, 12:51:23 - ERROR - cannot find stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
 01/08/2022, 12:51:23 - ERROR - Failed to get stays | {} (sid: B9ZxT6notx9nskmQWKhl2P4au1l24Gis)
+<<<<<<< HEAD
 1.8.2022, 16:00:20 - INFO - Server is running on port: 3030 
 1.8.2022, 18:31:41 - INFO - Server is running on port: 3030 
 1.8.2022, 18:37:05 - ERROR - Failed to add order | {} (sid: Y3kLSIj49I_PULIA7mkNRyO5H-nGY8lp)
+=======
+<<<<<<< HEAD
+8/1/2022, 6:32:58 PM - ERROR - cannot find stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
+8/1/2022, 6:32:58 PM - ERROR - Failed to get stays | {} (sid: s2YHGnN2u_AGepzUyoswIVH63H-h7bDc)
+8/1/2022, 6:36:17 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:36:22 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:36:35 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:36:56 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:38:20 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:38:26 PM - ERROR - cannot find stays | {} (sid: Ht-WR__Ox36J70YB8ZzgIhXQaEerPCjT)
+8/1/2022, 6:38:26 PM - ERROR - Failed to get stays | {} (sid: Ht-WR__Ox36J70YB8ZzgIhXQaEerPCjT)
+=======
+>>>>>>> cc65ccd3e64cdfa851d9d5400918adcec8c3e866
+1.8.2022, 16:00:20 - INFO - Server is running on port: 3030 
+>>>>>>> 16d6931e8e9f78d9e04d89197d149e016cf852af
+8/1/2022, 6:41:24 PM - INFO - Server is running on port: 3030 
+8/1/2022, 6:41:59 PM - ERROR - Failed to add order | {} (sid: 7zW5PtsxejmOaqy62n1DsiqwwF_kojYT)
+>>>>>>> 6483acf676ee7f1a3fc8a192e0f2f940e1ca2113
