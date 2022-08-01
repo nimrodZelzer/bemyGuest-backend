@@ -858,3 +858,8 @@
 7/31/2022, 2:08:07 PM - INFO - Server is running on port: 3030 
 7/31/2022, 2:08:23 PM - INFO - Server is running on port: 3030 
 31.7.2022, 20:22:02 - INFO - Server is running on port: 3030 
+31.7.2022, 21:27:45 - INFO - Server is running on port: 3030 
+31.7.2022, 22:18:40 - INFO - Server is running on port: 3030 
+31.7.2022, 22:30:55 - DEBUG - Setting (6TFl7ldNjgeOMQTVAAAJ) socket.userId = 62e0e9b1dd13b00af4e80283 
+31.7.2022, 22:44:25 - DEBUG - Setting (v_HUL8FJJKchuuSAAAAR) socket.userId = 62e0e9b1dd13b00af4e80283 
+31.7.2022, 22:45:51 - ERROR - Failed to add order | {} (sid: iFEDUiK8lIb6MVwo3SgR2jEltDXBI3_8)

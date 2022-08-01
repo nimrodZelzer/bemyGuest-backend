@@ -25,7 +25,7 @@ async function getOrder(req, res) {
 }
 
 async function addOrder(req, res) {
-  console.log("this is req", req.body)
+  // console.log("this is req", req.body)
   try {
     var order = req.body
     order = await orderService.add(order)
