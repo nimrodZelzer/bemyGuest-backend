@@ -18,10 +18,14 @@ function connectSockets(http, session) {
       console.log("Someone disconnected")
     })
 
-    socket.on("order-added", (order) => {
+    socket.on("order-added", async (order) => {
       console.log("order has added!", order)
-
       gIo.emit("order-added", order)
+    })
+
+    socket.on('order-change', async (order) => {
+      console.log("order has change!", order)
+      gIo.emit('order-change', order)
     })
 
     socket.on("set-user-socket", (userId) => {

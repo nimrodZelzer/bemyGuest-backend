@@ -42,6 +42,7 @@ const stayRoutes = require("./api/stay/stay.routes")
 const orderRoutes = require("./api/order/order.routes")
 const { connectSockets } = require("./services/socket.service")
 
+
 // routes
 const setupAsyncLocalStorage = require("./middlewares/setupAls.middleware.js")
 app.all("*", setupAsyncLocalStorage)
