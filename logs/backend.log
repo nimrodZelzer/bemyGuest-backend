@@ -158,3 +158,12 @@
 3.8.2022, 9:40:24 - ERROR - Failed to add order | {} (sid: Ag-eOutOLKVpfJXaDj3rFR61tiSYRRhb)
 3.8.2022, 9:40:48 - DEBUG - Emiting to user socket: undefined (sid: j6ZMFe5pb8oKy72PXkOPFTqEN52kYdv8)
 3.8.2022, 9:40:54 - DEBUG - Emiting to user socket: undefined (sid: lA3_PfktF8KAHY8JXpzbcEvk7w1V2cGm)
+3.8.2022, 10:48:57 - INFO - Server is running on port: 3030 
+3.8.2022, 10:51:42 - ERROR - Failed to add order | {} (sid: WSvSYjv5xDXzu01YLGCgNgJWZXmSb9ng)
+3.8.2022, 10:51:58 - ERROR - Failed to add order | {} (sid: f_VRbQcc5X2gjm37uatv3Bu2eTn7R-P_)
+3.8.2022, 10:53:26 - ERROR - Failed to add order | {} (sid: TIhqH_DxqhwBsVdh_7pAnVl5EHPRRbaD)
+3.8.2022, 10:53:51 - ERROR - Failed to add order | {} (sid: jXYrle_2WS49trwYRV0wAvg6kwseMXUj)
+3.8.2022, 10:54:09 - ERROR - Failed to add order | {} (sid: NzuhD3rWgPVEUXhRBqsTzeSlHDTwM8be)
+3.8.2022, 10:54:12 - ERROR - Failed to add order | {} (sid: pdSvW27_1Kxpz4BvhOt5bZU_ItOgjdK8)
+3.8.2022, 10:54:18 - ERROR - Failed to add order | {} (sid: 9czYpnnzfybI5SAHFnq3MADJ5WC_v8jN)
+3.8.2022, 10:56:03 - INFO - Server is running on port: 3030 
