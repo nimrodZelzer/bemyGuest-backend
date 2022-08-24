@@ -7,7 +7,7 @@ async function query(filterBy = {}) {
     const collection = await dbService.getCollection("stay")
     var stays = await collection.find().toArray()
 
-    if (!filterBy.txt && !filterBy.price) return stays
+    if (!filterBy.txt && !filterBy.price&& !filterBy.labels) return stays
     var newStays = stays
 
     if (filterBy.txt) {
@@ -18,6 +18,11 @@ async function query(filterBy = {}) {
       newStays = stays.filter(
         (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
       )
+
+    }
+    if(filterBy.labels){
+      newStays=stays.filter((stay)=>stay.labels===filterBy.labels)
+
     }
 
 

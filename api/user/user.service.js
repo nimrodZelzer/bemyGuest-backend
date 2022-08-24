@@ -88,7 +88,6 @@ async function update(user) {
 async function add(user) {
   console.log("user service 93", user)
   try {
-    // pick only updatable fields!
     const userToAdd = {
       username: user.username,
       password: user.password,
@@ -96,7 +95,6 @@ async function add(user) {
       email: user.email,
       wishList: [],
     }
-    console.log(userToAdd)
     const collection = await dbService.getCollection("user")
     await collection.insertOne(userToAdd)
     return userToAdd
