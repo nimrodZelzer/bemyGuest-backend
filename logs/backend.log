@@ -175,6 +175,7 @@
 17.8.2022, 20:22:01 - INFO - Server is running on port: 3030 
 17.8.2022, 20:25:09 - ERROR - Failed to add order | {} (sid: uDxmt_BZPpBwbDxDfhIEyw_0QJ1yPLuJ)
 17.8.2022, 20:25:45 - DEBUG - Emiting to user socket: undefined (sid: zDUZwd2sPONTSFNblMuEpxd5d7rlF9yG)
+<<<<<<< HEAD
 23.8.2022, 16:03:44 - INFO - Server is running on port: 3030 
 23.8.2022, 16:03:50 - ERROR - cannot find stays | {} (sid: dXSk3xeF59xIC9Yc-P_N6p5yK_dF4VrW)
 23.8.2022, 16:03:50 - ERROR - Failed to get stays | {} (sid: dXSk3xeF59xIC9Yc-P_N6p5yK_dF4VrW)
@@ -358,3 +359,158 @@
 24.8.2022, 13:54:50 - INFO - Server is running on port: 3030 
 24.8.2022, 14:20:26 - DEBUG - auth.service - login with username: hadar  (sid: VM75V3gTzo_WXZHSSEQBOpEEoP9GhO_2)
 24.8.2022, 14:20:29 - ERROR - Failed to Login Invalid username or password (sid: VM75V3gTzo_WXZHSSEQBOpEEoP9GhO_2)
+=======
+18.8.2022, 7:47:56 - INFO - Server is running on port: 3030 
+18.8.2022, 8:08:06 - INFO - Server is running on port: 3030 
+18.8.2022, 8:08:19 - INFO - Server is running on port: 3030 
+18.8.2022, 8:08:59 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:08 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:13 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:18 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:22 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:26 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:29 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:38 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:42 - INFO - Server is running on port: 3030 
+18.8.2022, 8:09:47 - INFO - Server is running on port: 3030 
+18.8.2022, 8:10:06 - INFO - Server is running on port: 3030 
+18.8.2022, 15:45:11 - INFO - Server is running on port: 3030 
+21.8.2022, 16:14:20 - INFO - Server is running on port: 3030 
+22.8.2022, 15:33:32 - ERROR - Failed to add order | {} (sid: _8xq8uZ7pZ8kZqumTA47heQjnlG97frb)
+23.8.2022, 14:35:14 - ERROR - Failed to add order | {} (sid: E0AtSUoL7nl34gdzsFOs1AALxtuByZUE)
+23.8.2022, 14:36:03 - ERROR - Failed to add order | {} (sid: kTzS-IrVaV_C7wahiEH8AxoIuI57lydj)
+23.8.2022, 14:36:23 - DEBUG - Emiting to user socket: undefined (sid: K1KyF86ODWuAMSUZqCQZrY76rxX18Kfx)
+23.8.2022, 16:48:39 - DEBUG - Emiting to user socket: undefined (sid: eNqyQQ1GwTLf256tvU1iFaoxWKy9DbJr)
+23.8.2022, 21:19:08 - ERROR - Failed to add order | {} (sid: rcwv1gz07T6QvC_wg1l6OETLPomDeY91)
+23.8.2022, 22:35:45 - INFO - Server is running on port: 3030 
+23.8.2022, 22:36:01 - DEBUG - Getting Stays (sid: PWAel6oYrrq2oGkyCYA44YeRi6TOtE2h)
+23.8.2022, 22:36:36 - INFO - Server is running on port: 3030 
+23.8.2022, 22:38:57 - INFO - Server is running on port: 3030 
+23.8.2022, 22:40:33 - INFO - Server is running on port: 3030 
+23.8.2022, 22:46:57 - INFO - Server is running on port: 3030 
+23.8.2022, 22:49:28 - INFO - Server is running on port: 3030 
+23.8.2022, 22:51:10 - DEBUG - Getting Stays (sid: pDE1If2-Bpfs-yHGatR0W8W53MihRPRl)
+23.8.2022, 22:52:46 - DEBUG - Getting Stays (sid: 7gBYn2-kraIIZQhTWZ70GaBAVsXQJl3m)
+23.8.2022, 22:55:51 - DEBUG - Getting Stays (sid: l0rWul_LMTmje76r6CMCGwDor44L5Aut)
+23.8.2022, 22:56:37 - DEBUG - Getting Stays (sid: bxpP9Tk6seFaaYoUjK-pyiWOaqzIIMfY)
+23.8.2022, 22:56:44 - DEBUG - Getting Stays (sid: hXwFxcu9ShgJY1x9uPYswLroC0N8E9w9)
+23.8.2022, 22:57:50 - DEBUG - Getting Stays (sid: G7CtlI9liurRfMPyUlTMRptSaTl2n4K2)
+23.8.2022, 22:58:14 - INFO - Server is running on port: 3030 
+23.8.2022, 22:58:19 - DEBUG - Getting Stays (sid: dXewWDUmZoyD4AsXIvsOipDpu3xXKR_W)
+23.8.2022, 23:00:22 - DEBUG - Getting Stays (sid: WS-R83lTVZidfVK-IQQ_4steeMksn_zf)
+23.8.2022, 23:00:35 - DEBUG - Getting Stays (sid: XMKqgJeXDBqmYFF4MJ4kQo6gJQ2kZKf2)
+23.8.2022, 23:01:25 - DEBUG - Getting Stays (sid: XiIs48jP66omuETpYoh9j1qFXYA6bf9G)
+23.8.2022, 23:02:49 - DEBUG - Getting Stays (sid: MxoODmgezmoZ97RJWCuLapx_sUSMMTRR)
+23.8.2022, 23:03:47 - DEBUG - Getting Stays (sid: 6cOt7NgXJxCYI3G6YqN7iFnUkl9a1GI1)
+23.8.2022, 23:04:33 - DEBUG - Getting Stays (sid: b6Ogzd4JsgZi2zKqw4gRVuegkLWMq6Gc)
+23.8.2022, 23:05:15 - DEBUG - Getting Stays (sid: CxYzO5MGUY-aUMH6nKGACx8ncmb2GtYJ)
+23.8.2022, 23:14:31 - INFO - Server is running on port: 3030 
+23.8.2022, 23:14:43 - DEBUG - Getting Stays (sid: PQH3avS3JDNqUOuNQSW8VlTEO9eQzAYE)
+23.8.2022, 23:14:43 - ERROR - cannot find stays | {} (sid: PQH3avS3JDNqUOuNQSW8VlTEO9eQzAYE)
+23.8.2022, 23:14:43 - ERROR - Failed to get stays | {} (sid: PQH3avS3JDNqUOuNQSW8VlTEO9eQzAYE)
+23.8.2022, 23:15:17 - DEBUG - Getting Stays (sid: EWtN8TV49iumpFmDj0-sK1HIYOwwnULp)
+23.8.2022, 23:15:50 - DEBUG - Getting Stays (sid: EmFcxPI8IgDS5hQTdim3HBPH6eq3XQ_R)
+23.8.2022, 23:15:50 - ERROR - cannot find stays | {} (sid: EmFcxPI8IgDS5hQTdim3HBPH6eq3XQ_R)
+23.8.2022, 23:15:50 - ERROR - Failed to get stays | {} (sid: EmFcxPI8IgDS5hQTdim3HBPH6eq3XQ_R)
+23.8.2022, 23:16:46 - INFO - Server is running on port: 3030 
+23.8.2022, 23:16:54 - DEBUG - Getting Stays (sid: ew7xx5cldLn7brEyBkgs7rPizSv278BA)
+23.8.2022, 23:17:36 - DEBUG - Getting Stays (sid: G9twAWpE_Nnf8ocvQCcUurhjzGHyq5MX)
+23.8.2022, 23:18:09 - DEBUG - Getting Stays (sid: WyGkiyex_o-69qgqSXq_1h8sZe9LIC0A)
+23.8.2022, 23:19:30 - DEBUG - Getting Stays (sid: c7aWmqTF37Yf8qx8AdWZgd5MHKNOm-On)
+23.8.2022, 23:20:10 - INFO - Server is running on port: 3030 
+23.8.2022, 23:20:18 - DEBUG - Getting Stays (sid: yg8WvbDSEjFer0Oaz_UIiPP3sgECIMR6)
+23.8.2022, 23:20:44 - INFO - Server is running on port: 3030 
+23.8.2022, 23:20:56 - INFO - Server is running on port: 3030 
+23.8.2022, 23:21:04 - DEBUG - Getting Stays (sid: Yxof9dzOvhOc4Tu-QY38kLaA9hDYBFKj)
+23.8.2022, 23:21:17 - DEBUG - Getting Stays (sid: uokOlZd9AcGHITuERizrwfHI6BF16d6i)
+23.8.2022, 23:21:47 - DEBUG - Getting Stays (sid: j7AOEelACERY4qcAsuVh0OlwwHhfMFsG)
+23.8.2022, 23:22:46 - INFO - Server is running on port: 3030 
+23.8.2022, 23:23:03 - DEBUG - Getting Stays (sid: tJ8_GIwcKYCtn0Jwib6vgP2bElSSDCxf)
+23.8.2022, 23:23:03 - ERROR - cannot find stays | {} (sid: tJ8_GIwcKYCtn0Jwib6vgP2bElSSDCxf)
+23.8.2022, 23:23:03 - ERROR - Failed to get stays | {} (sid: tJ8_GIwcKYCtn0Jwib6vgP2bElSSDCxf)
+23.8.2022, 23:25:24 - INFO - Server is running on port: 3030 
+23.8.2022, 23:26:28 - INFO - Server is running on port: 3030 
+23.8.2022, 23:26:32 - DEBUG - Getting Stays (sid: lLW3Idzm8P9mEN7udintTZRiqqVHNCog)
+23.8.2022, 23:32:16 - INFO - Server is running on port: 3030 
+23.8.2022, 23:33:09 - DEBUG - Getting Stays (sid: _nZStsKeHVjRrXgtkIgXM4ZBDMn-qs54)
+23.8.2022, 23:38:07 - INFO - Server is running on port: 3030 
+23.8.2022, 23:40:36 - INFO - Server is running on port: 3030 
+23.8.2022, 23:42:58 - INFO - Server is running on port: 3030 
+23.8.2022, 23:43:04 - INFO - Server is running on port: 3030 
+23.8.2022, 23:44:03 - INFO - Server is running on port: 3030 
+23.8.2022, 23:44:12 - DEBUG - Getting Stays (sid: qC2CCbwZqyarGlpKsyMKRbA5lXVGgQVA)
+23.8.2022, 23:44:37 - DEBUG - Getting Stays (sid: Vs9bFhtV_p4U4lpFfR5cHgVz-T6I3c4h)
+23.8.2022, 23:46:25 - INFO - Server is running on port: 3030 
+23.8.2022, 23:46:46 - DEBUG - Getting Stays (sid: bXk3PkWEVhqEAM5HmKu9ie8E_OkWgcDp)
+23.8.2022, 23:46:53 - DEBUG - Getting Stays (sid: 4rP_J-bwMmrMSJvdw-N7aUrHry_JJ_c0)
+23.8.2022, 23:47:03 - DEBUG - Getting Stays (sid: TTA9xLAIrb6UQA7Wb1BKH55_ULs9Ia82)
+23.8.2022, 23:49:14 - DEBUG - Getting Stays (sid: hFh4IWCx89_xx7f6VJsa5-eeE2FB4XU0)
+24.8.2022, 8:57:28 - INFO - Server is running on port: 3030 
+24.8.2022, 8:59:32 - DEBUG - Getting Stays (sid: z9DGg8Iug4r2WR3Z5mC90JvkcLwT2qH-)
+24.8.2022, 9:02:06 - DEBUG - Getting Stays (sid: 2dYf4kltV__nAE7kxRh68XF6P-EQiaoO)
+24.8.2022, 9:06:23 - DEBUG - Getting Stays (sid: OiihRWwawITBmXEhomkMRraDfZn48Td4)
+24.8.2022, 9:08:16 - DEBUG - Getting Stays (sid: LGddThXLPjs5JxLy18xGO_QP83nDwtqF)
+24.8.2022, 9:09:50 - DEBUG - Getting Stays (sid: cGi_mGxlTYSNK6xMhXtCUkchn7nF4cEB)
+24.8.2022, 9:11:09 - DEBUG - Getting Stays (sid: Nf3OyB56ezhCurwSV7HA2u__4s6nb6Xn)
+24.8.2022, 9:11:36 - DEBUG - Getting Stays (sid: ZCnmYFA6QdgcVDAgaBAOWf95FkmwqwlM)
+24.8.2022, 9:19:55 - DEBUG - Getting Stays (sid: SafnpvI6Y5-ky31o3X7NYQJiDuDi1EF7)
+24.8.2022, 9:26:33 - DEBUG - Getting Stays (sid: _0DAwgkEh9jVMu-hrwPaL5ZAfIUR4FAO)
+24.8.2022, 9:27:31 - DEBUG - Getting Stays (sid: MLSZd4s6PYsgwqmuOXpK628MoO9S4DSc)
+24.8.2022, 9:30:30 - INFO - Server is running on port: 3030 
+24.8.2022, 9:31:22 - DEBUG - Getting Stays (sid: kfdN3fTvYpeegODG0FXg_YAXJHwa_kDF)
+24.8.2022, 9:31:38 - DEBUG - Getting Stays (sid: R7EFDDjJ35sHZ1yrW7aGIHEfWPOfZd9G)
+24.8.2022, 9:35:34 - INFO - Server is running on port: 3030 
+24.8.2022, 9:38:35 - INFO - Server is running on port: 3030 
+24.8.2022, 9:41:54 - INFO - Server is running on port: 3030 
+24.8.2022, 9:43:38 - INFO - Server is running on port: 3030 
+24.8.2022, 9:44:00 - DEBUG - Getting Stays (sid: Vvq3gO9NJUsMTEnAzfkrHfQNbBIRb_yV)
+24.8.2022, 9:44:19 - DEBUG - Getting Stays (sid: UzVcIj0f-4IvI0uMgQapepdZvWCGZflw)
+24.8.2022, 9:46:26 - INFO - Server is running on port: 3030 
+24.8.2022, 9:46:30 - DEBUG - Getting Stays (sid: mYIRoUs4wHQ2hK6A59g6SzaMydUKw4dt)
+24.8.2022, 9:46:42 - DEBUG - Getting Stays (sid: G0Sg2XFbHvxCj3wLGVZV8NHO9Wmr1Cc5)
+24.8.2022, 9:48:28 - INFO - Server is running on port: 3030 
+24.8.2022, 9:48:35 - DEBUG - Getting Stays (sid: SIxS9lWWPR5U5bCSRsJsKREmGf2VpWop)
+24.8.2022, 9:48:44 - DEBUG - Getting Stays (sid: UOVUb9o6RKthLHORcFeDEXwGWgr-1H-w)
+24.8.2022, 9:49:03 - DEBUG - Getting Stays (sid: XV7yS0LIWTy2YVPXWTrkVndMCf4MhP7i)
+24.8.2022, 9:49:17 - DEBUG - Getting Stays (sid: vtgX9m1Oo35-0dzZT5x6xIRbiu37-hBk)
+24.8.2022, 9:49:41 - DEBUG - Getting Stays (sid: 89Xhilk0wfCil-9D7DwpfyiXUcGfeIOg)
+24.8.2022, 9:50:02 - DEBUG - Getting Stays (sid: AuwIE2Bs5yl1BY9BpMHuRGh2YRsj2AXh)
+24.8.2022, 9:51:43 - DEBUG - Getting Stays (sid: 1VqQ9Z7j704svm4_kh2z-GwfefZPxMrZ)
+24.8.2022, 9:52:44 - DEBUG - Getting Stays (sid: IA07LnstcDZsWJihp_1PmCBDj7UXaZ53)
+24.8.2022, 9:52:59 - DEBUG - Getting Stays (sid: zPfEARXqLwwPsToc8As8I0wUreIk3NPd)
+24.8.2022, 9:53:00 - DEBUG - Getting Stays (sid: pyUUzqqQW5FCAtgg9nxsoetkfilqzCQk)
+24.8.2022, 9:53:04 - DEBUG - Getting Stays (sid: aR8aYbhjXWmipEx42-awPrRwZGwV5T4C)
+24.8.2022, 9:53:29 - DEBUG - Getting Stays (sid: dEnBc6Ly4T1FXU0vS30Fv_EhtbhmljCM)
+24.8.2022, 9:53:30 - DEBUG - Getting Stays (sid: m7yNaO7x2m-DADn_x7y2QExHZTBVl6HI)
+24.8.2022, 9:54:01 - DEBUG - Getting Stays (sid: l4pVQTz88cWqugw2ORFZSSb8qudDAUtU)
+24.8.2022, 9:54:02 - DEBUG - Getting Stays (sid: 62Nsm03u-DZwwPvxuJP94j8DZXl9FSsR)
+24.8.2022, 9:54:31 - DEBUG - Getting Stays (sid: wPiD7ao_HdAft9k1MvQGQj3d9OhYj-Lt)
+24.8.2022, 9:54:52 - DEBUG - Getting Stays (sid: d6wkb6_4MqXJhMLyrL96YwGh7whjL22O)
+24.8.2022, 9:55:02 - DEBUG - Getting Stays (sid: _1siVIv7H977Lq0CcwFppxRQt_usLs3R)
+24.8.2022, 9:55:44 - DEBUG - Getting Stays (sid: tDyn32VzJGmrFsmSpXfuMGoyzAgXLalo)
+24.8.2022, 10:03:56 - DEBUG - Getting Stays (sid: -yhi_x1xBTnhMAerBCObkXgla1NG3dXT)
+24.8.2022, 11:01:42 - DEBUG - Getting Stays (sid: QHRG_ernOFypXLcwHOFFe_GC0JGIFq2C)
+24.8.2022, 11:06:09 - DEBUG - Getting Stays (sid: 6PrjDgfGdPScdqdMyk1o5dlSLlr6KLt3)
+24.8.2022, 11:08:21 - DEBUG - Getting Stays (sid: p7QJgKb5ajA5GcrzSkfExvpr0JRcHTsh)
+24.8.2022, 11:53:27 - DEBUG - Getting Stays (sid: i3JowzWx5wgIPrL5tYzcEvS7-UJLLkln)
+24.8.2022, 12:18:43 - DEBUG - Getting Stays (sid: ccP8o44ld3ohqPRYcUkZ1-4DPrTkrIvu)
+24.8.2022, 12:47:03 - DEBUG - Getting Stays (sid: oBon2BsJgGolsc5O0M2_674qAHVXbCj1)
+24.8.2022, 12:52:56 - DEBUG - Getting Stays (sid: IzbXZ2vRPHinXOCVZBrWwi5gEx27DGPG)
+24.8.2022, 12:54:33 - DEBUG - Getting Stays (sid: 2_m1uTCtOvC4Ja-WNU2U2TzrR2ciqmFc)
+24.8.2022, 12:57:29 - DEBUG - Getting Stays (sid: nwP4wMXPpnhN4aecM_tudQOQG8EGidNh)
+24.8.2022, 13:26:18 - DEBUG - Getting Stays (sid: fnSTdMQbFXuZq6ZuQVDDbQwtcv-Yn45v)
+24.8.2022, 13:32:00 - DEBUG - Getting Stays (sid: Ea2X4Vxv_7U_IDMP4gHHWWKtw2KhHW9j)
+24.8.2022, 13:37:26 - DEBUG - Getting Stays (sid: mkuH4UZqIqeDm-VVPGcYCRR2lokBljE4)
+24.8.2022, 13:38:44 - DEBUG - Getting Stays (sid: Gs4ZEbZU4uwoDPMpC-gp3pGCpp9Rp4Yz)
+24.8.2022, 13:48:49 - DEBUG - Getting Stays (sid: fUnLO0EoPpp67M5v_xbsq-ZeVvF_q7f7)
+24.8.2022, 14:13:39 - DEBUG - Getting Stays (sid: 7uswj_iFwVG8rZxZYInfmjGHPhrBTmJo)
+24.8.2022, 14:14:12 - DEBUG - Getting Stays (sid: irk4KPNldnJ5RF22yPaRZbMSZJwhpKdG)
+24.8.2022, 14:15:48 - DEBUG - Getting Stays (sid: CDKFv9Oy5e2cysQcDC4CTZEcd7QNEk8V)
+24.8.2022, 14:17:09 - DEBUG - Getting Stays (sid: I5WXBso7kWCP8fPtDVfXslveihBs-hnw)
+24.8.2022, 14:17:26 - DEBUG - Getting Stays (sid: CxhpDTq9YVk2w8yTHaRSoQxixAgUCJJT)
+24.8.2022, 14:17:38 - DEBUG - Getting Stays (sid: 1y7I6cc4mKf0MgocSUZf62jRSJtIar0U)
+24.8.2022, 14:18:19 - DEBUG - Getting Stays (sid: yxgzAQvNf8A1qJT3i-x97oU9L-POHREl)
+24.8.2022, 14:18:46 - DEBUG - Getting Stays (sid: UTKVA5C0QqLUvIYBlhZCKfJ1NpvjMiid)
+24.8.2022, 14:23:41 - DEBUG - Getting Stays (sid: jgP4A-vsuD3Kak-GDo9lQC1_nXmgvT8W)
+24.8.2022, 14:25:14 - INFO - Server is running on port: 3030 
+>>>>>>> 70970bf143107d0c96a9ba16dc413bc8655b7607
