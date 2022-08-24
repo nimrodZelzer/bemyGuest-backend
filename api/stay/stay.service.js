@@ -26,6 +26,11 @@ async function query(filterBy = { dest: "", price: 0 }) {
       newStays = stays.filter(
         (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
       )
+
+    }
+    if(filterBy.labels){
+      newStays=stays.filter((stay)=>stay.labels===filterBy.labels)
+
     }
     console.log(newStays)
     return newStays
