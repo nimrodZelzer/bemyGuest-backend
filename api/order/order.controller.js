@@ -48,7 +48,6 @@ async function updateOrder(req, res) {
   try {
     var order = req.body
     const userId = order.guestsDetails.guestId
-    console.log(userId,'i')
     order = await orderService.updateOrder(order)
     socketService.emitToUser({
       type: "order-updated",

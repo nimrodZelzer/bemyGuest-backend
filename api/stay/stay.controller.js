@@ -7,10 +7,9 @@ const { dbURL } = require("../../config/prod.js")
 // GET LIST
 async function getStays(req, res) {
   try {
+    logger.debug("Getting Stays")
     var queryParams = req.query
-    // console.log("queryParamsssssssssssssss: ", queryParams)
     const stays = await stayService.query(queryParams)
-    // console.log(stays)
     res.json(stays)
   } catch (err) {
     logger.error("Failed to get stays", err)
@@ -47,7 +46,6 @@ async function addStay(req, res) {
 
 // PUT (Update stay)
 async function updateStay(req, res) {
-  console.log(req.body, "bodyyyyyyyyyyyyyyy")
   try {
     const stay = req.body
     const updatedStay = await stayService.update(stay)
