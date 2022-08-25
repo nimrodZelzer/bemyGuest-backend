@@ -4,7 +4,6 @@ const { json } = require("express")
 const { Db } = require("mongodb")
 const { dbURL } = require("../../config/prod.js")
 
-// GET LIST
 async function getStays(req, res) {
   try {
     logger.debug("Getting Stays")
@@ -17,9 +16,7 @@ async function getStays(req, res) {
   }
 }
 
-// GET BY ID
 async function getStayById(req, res) {
-  // console.log(req.params)
   try {
     const { id } = req.params
     const stay = await stayService.getById(id)
@@ -30,13 +27,10 @@ async function getStayById(req, res) {
   }
 }
 
-// POST (add stay)
 async function addStay(req, res) {
   try {
     const stay = req.body
-    // console.log("line 32", stay)
     const addedStay = await stayService.add(stay)
-    // console.log("line34", addedStay)
     res.json(addedStay)
   } catch (err) {
     logger.error("Failed to add stay", err)
@@ -44,7 +38,6 @@ async function addStay(req, res) {
   }
 }
 
-// PUT (Update stay)
 async function updateStay(req, res) {
   try {
     const stay = req.body
@@ -56,12 +49,10 @@ async function updateStay(req, res) {
   }
 }
 
-// DELETE (Remove stay)
 async function removeStay(req, res) {
   try {
     const stayId = req.params.id
     const removedId = await stayService.remove(stayId)
-
     res.send(removedId)
   } catch (err) {
     logger.error("Failed to remove stay", err)

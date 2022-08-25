@@ -4,38 +4,29 @@ const ObjectId = require("mongodb").ObjectId
 
 async function query(filterBy = { dest: "", price: 0 }) {
   try {
-    // const filterdStays = _buildCriteria(filterBy)
-    console.log(filterBy)
     const collection = await dbService.getCollection("stay")
     var stays = await collection.find().toArray()
-    // console.log(stays, "111")
     if (!filterBy.dest && !filterBy.price) return stays
     var newStays = stays
 
     if (filterBy.dest) {
+      const userInput = capitalizeFirstLetter(filterBy.dest)
       newStays = stays.filter((stay) => {
-        const location = capitalizeFirstLetter(filterBy.dest)
-        console.log("location: ", location)
-        return stay.loc.country.includes(location)
-        filterBy.dest === location
-        // filterBy.dest.includes(location)
+        return stay.loc.country.includes(userInput)
       })
+      if (newStays.length === 0) return stays
     }
 
     if (filterBy.price) {
       newStays = stays.filter(
         (stay) => +filterBy.min < stay.price && +filterBy.max > stay.price
       )
-
     }
-    if(filterBy.labels){
-      newStays=stays.filter((stay)=>stay.labels===filterBy.labels)
-
+    if (filterBy.labels) {
+      newStays = stays.filter((stay) => stay.labels === filterBy.labels)
     }
-    console.log(newStays)
+
     return newStays
-
-    // if (!filterBy.txt) return stays
   } catch (err) {
     logger.error("cannot find stays", err)
     throw err
