@@ -6,6 +6,7 @@ async function query(filterBy = { dest: "", price: 0 }) {
   try {
     const collection = await dbService.getCollection("stay")
     var stays = await collection.find().toArray()
+
     if (!filterBy.dest && !filterBy.price) return stays
     var newStays = stays
 
@@ -25,6 +26,16 @@ async function query(filterBy = { dest: "", price: 0 }) {
     if (filterBy.labels) {
       newStays = stays.filter((stay) => stay.labels === filterBy.labels)
     }
+
+    const reviews = newStays.map((stay) => stay.reviews)
+    reviews.filter((review) => {
+      if (!review.by.imgUrl)
+        return (
+          review.by.imgUrl ===
+          "https://xsgames.co/randomusers/avatar.php?g=male"
+        )
+      else return review.by.imgUrl
+    })
 
     return newStays
   } catch (err) {
